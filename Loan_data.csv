@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Marital_Status,Education,Employment_Type,Annual_Income,Loan_Amount,Loan_Term,Credit_Score,Existing_Loan,Property_Area,State,Loan_Purpose,Loan_Status,Default_Status,Interest_Rate,EMI
+CUST00001,41,Male,Married,Non-Graduate,Salaried,1878050,818747,36,552,No,Semiurban,Delhi,Home,Approved,No,14.42,32581.58
+CUST00002,53,Male,Married,Graduate,Salaried,1021106,274695,240,798,Yes,Urban,Tamil Nadu,Education,Approved,No,10.62,3575.61
+CUST00003,58,Male,Married,Graduate,Salaried,1415502,934315,36,720,Yes,Rural,Punjab,Car,Approved,No,7.92,32119.67
+CUST00004,35,Female,Single,Graduate,Self-Employed,1819135,1394476,12,556,No,Rural,Delhi,Home,Rejected,Yes,7.55,124979.91
+CUST00005,35,Female,Married,Non-Graduate,Salaried,1060120,1151844,24,521,Yes,Rural,Rajasthan,Education,Rejected,No,7.46,55154.13
+CUST00006,45,Male,Married,Non-Graduate,Self-Employed,631734,1531006,84,638,No,Rural,Rajasthan,Home,Approved,No,10.42,31520.5
+CUST00007,41,Male,Married,Non-Graduate,Self-Employed,1621796,1311519,360,470,No,Urban,Tamil Nadu,Home,Approved,No,10.04,14616.15
+CUST00008,44,Male,Married,Non-Graduate,Salaried,865627,1881780,24,552,No,Rural,Uttar Pradesh,Education,Rejected,No,13.46,99514.8
+CUST00009,25,Male,Married,Graduate,Self-Employed,421897,1520394,84,571,Yes,Urban,Maharashtra,Car,Approved,No,13.69,35445.09
+CUST00010,26,Male,Single,Non-Graduate,Salaried,201062,758691,12,664,Yes,Rural,Rajasthan,Education,Approved,No,7.46,67940.78
+CUST00011,43,Male,Married,Non-Graduate,Self-Employed,1496312,623189,12,780,No,Urban,Karnataka,Business,Approved,No,8.99,56601.14
+CUST00012,24,Female,Married,Graduate,Self-Employed,1823312,1460706,60,537,Yes,Urban,Maharashtra,Business,Approved,No,9.47,35872.5
+CUST00013,47,Female,Single,Graduate,Salaried,295462,1293064,360,822,No,Rural,Gujarat,Education,Approved,No,11.93,16447.06
+CUST00014,38,Female,Married,Non-Graduate,Self-Employed,1648021,1786132,240,549,Yes,Rural,Rajasthan,Car,Approved,Yes,8.3,19796.3
+CUST00015,41,Male,Married,Non-Graduate,Salaried,1698585,440530,180,809,No,Rural,Karnataka,Business,Approved,No,8.21,5461.35
+CUST00016,48,Male,Married,Non-Graduate,Self-Employed,970173,1890634,36,601,No,Rural,Gujarat,Business,Approved,No,15.49,76922.54
+CUST00017,55,Male,Married,Non-Graduate,Salaried,772203,712784,36,580,Yes,Semiurban,Maharashtra,Education,Approved,No,14.24,28257.93
+CUST00018,42,Female,Married,Graduate,Self-Employed,1515352,1897865,12,599,Yes,Rural,Tamil Nadu,Education,Approved,Yes,8.63,171804.23
+CUST00019,60,Male,Single,Graduate,Salaried,1877456,291531,36,758,Yes,Rural,Gujarat,Education,Approved,No,10.66,10687.85
+CUST00020,43,Male,Single,Non-Graduate,Salaried,858956,1345269,12,707,Yes,Rural,Delhi,Home,Approved,No,10.2,123540.54
+CUST00021,23,Female,Single,Non-Graduate,Self-Employed,1620499,1044465,180,793,No,Urban,Tamil Nadu,Home,Approved,No,14.12,18092.45
+CUST00022,60,Male,Married,Non-Graduate,Salaried,1647960,969484,12,743,No,Rural,Tamil Nadu,Home,Approved,No,11.59,90153.93
+CUST00023,30,Female,Single,Non-Graduate,Self-Employed,1880963,753650,60,835,Yes,Urban,Maharashtra,Education,Approved,No,8.15,17679.37
+CUST00024,45,Female,Married,Non-Graduate,Self-Employed,731849,1649295,240,641,Yes,Urban,Maharashtra,Car,Approved,No,13.65,25632.79
+CUST00025,28,Male,Married,Graduate,Salaried,667010,1969984,120,726,No,Urban,Karnataka,Business,Approved,No,10.57,33768.81
+CUST00026,31,Female,Married,Graduate,Salaried,1855016,1336936,48,610,Yes,Urban,Karnataka,Home,Approved,No,9.37,38292.08
+CUST00027,25,Male,Single,Graduate,Salaried,1897900,394855,240,763,Yes,Semiurban,Delhi,Car,Approved,No,10.38,5060.72
+CUST00028,57,Female,Single,Non-Graduate,Salaried,586193,1605979,240,471,Yes,Rural,Tamil Nadu,Education,Approved,No,11.48,22055.44
+CUST00029,58,Male,Single,Non-Graduate,Salaried,226734,1124961,24,702,Yes,Urban,Punjab,Home,Approved,No,10.09,56332.42
+CUST00030,49,Female,Married,Graduate,Self-Employed,1123875,481374,360,685,No,Rural,Uttar Pradesh,Education,Approved,No,9.18,5019.66
+CUST00031,25,Male,Single,Graduate,Salaried,226069,1514811,360,794,No,Urban,Delhi,Car,Approved,No,10.59,17576.02
+CUST00032,29,Female,Married,Non-Graduate,Self-Employed,1983841,330783,84,498,Yes,Semiurban,Delhi,Home,Approved,No,7.17,5914.32
+CUST00033,22,Female,Single,Graduate,Salaried,737198,1184106,48,508,No,Urban,Uttar Pradesh,Home,Rejected,No,13.95,38434.11
+CUST00034,21,Female,Single,Non-Graduate,Salaried,1584199,1853847,180,619,Yes,Rural,Uttar Pradesh,Home,Approved,Yes,8.54,23492.36
+CUST00035,60,Male,Married,Non-Graduate,Salaried,670951,333707,120,637,Yes,Rural,Uttar Pradesh,Home,Approved,Yes,7.4,4838.75
+CUST00036,50,Male,Married,Graduate,Self-Employed,281264,427816,120,720,Yes,Semiurban,Maharashtra,Car,Rejected,No,12.88,8157.03
+CUST00037,31,Female,Single,Graduate,Salaried,223275,1528236,360,639,No,Rural,Delhi,Home,Rejected,No,13.97,22036.31
+CUST00038,48,Male,Single,Graduate,Self-Employed,796562,1036420,240,624,No,Rural,Delhi,Business,Approved,No,14.32,16686.36
+CUST00039,32,Female,Single,Non-Graduate,Self-Employed,1723241,1500503,60,500,No,Urban,Gujarat,Business,Rejected,Yes,11.44,39313.18
+CUST00040,59,Male,Married,Non-Graduate,Self-Employed,562920,1828254,84,813,No,Rural,Uttar Pradesh,Education,Approved,Yes,8.85,35248.3
+CUST00041,46,Female,Married,Graduate,Salaried,391076,395114,12,504,No,Urban,Uttar Pradesh,Home,Approved,No,13.64,37417.3
+CUST00042,33,Male,Single,Non-Graduate,Self-Employed,1442629,293373,84,693,Yes,Semiurban,Karnataka,Business,Approved,No,13.3,6744.09
+CUST00043,28,Female,Single,Non-Graduate,Salaried,1202163,397697,24,769,Yes,Rural,Karnataka,Business,Approved,No,9.22,19626.35
+CUST00044,48,Female,Married,Non-Graduate,Self-Employed,1958489,1260355,84,580,No,Urban,Tamil Nadu,Business,Rejected,No,15.13,30895.2
+CUST00045,50,Female,Single,Graduate,Salaried,772735,1268758,240,756,No,Rural,Karnataka,Car,Approved,No,7.94,13681.44
+CUST00046,29,Female,Married,Non-Graduate,Self-Employed,1112826,1096914,180,584,No,Urban,Rajasthan,Home,Approved,No,15.84,20573.23
+CUST00047,59,Male,Married,Graduate,Salaried,799991,1815724,240,470,Yes,Semiurban,Tamil Nadu,Car,Rejected,No,14.74,29868.66
+CUST00048,51,Female,Married,Graduate,Salaried,1062522,1705743,360,778,No,Urban,Punjab,Car,Approved,No,13.19,23487.13
+CUST00049,41,Male,Married,Non-Graduate,Salaried,1003692,1006331,180,616,Yes,Rural,Uttar Pradesh,Business,Approved,No,15.45,18547.24
+CUST00050,54,Male,Married,Graduate,Self-Employed,1361157,1336836,36,723,Yes,Urban,Gujarat,Business,Approved,No,13.5,52173.74
+CUST00051,51,Female,Married,Non-Graduate,Self-Employed,1514532,973159,180,837,No,Rural,Karnataka,Education,Approved,No,8.71,12469.95
+CUST00052,45,Male,Single,Graduate,Salaried,621240,1929867,84,538,Yes,Semiurban,Gujarat,Home,Approved,Yes,10.98,40632.89
+CUST00053,32,Male,Married,Graduate,Self-Employed,1962592,1021129,84,765,Yes,Urban,Karnataka,Home,Approved,No,7.64,18657.49
+CUST00054,21,Male,Married,Non-Graduate,Self-Employed,1102580,1937106,84,463,No,Rural,Karnataka,Business,Approved,Yes,10.51,40026.61
+CUST00055,42,Female,Single,Graduate,Self-Employed,1144789,1769187,36,691,Yes,Rural,Gujarat,Business,Approved,No,13.67,69298.07
+CUST00056,60,Male,Married,Graduate,Self-Employed,1209940,696701,360,714,No,Rural,Delhi,Home,Approved,No,10.48,8019.8
+CUST00057,57,Male,Single,Graduate,Self-Employed,316421,836958,12,795,Yes,Urban,Delhi,Education,Approved,No,9.97,76700.23
+CUST00058,21,Female,Married,Non-Graduate,Self-Employed,725893,380904,48,502,No,Urban,Delhi,Business,Approved,Yes,12.36,11858.81
+CUST00059,21,Female,Single,Non-Graduate,Self-Employed,1712950,1146413,360,835,No,Urban,Rajasthan,Education,Approved,No,14.85,17371.34
+CUST00060,41,Male,Single,Graduate,Salaried,272303,568349,84,789,Yes,Semiurban,Delhi,Car,Rejected,No,7.43,10285.09
+CUST00061,35,Female,Married,Graduate,Salaried,358211,834838,360,541,No,Rural,Karnataka,Business,Approved,Yes,10.47,9602.96
+CUST00062,37,Male,Married,Graduate,Self-Employed,1194653,847968,24,816,Yes,Rural,Uttar Pradesh,Car,Approved,No,8.42,41281.91
+CUST00063,42,Male,Married,Non-Graduate,Salaried,387210,1651405,120,713,Yes,Semiurban,Maharashtra,Business,Approved,No,13.26,32009.73
+CUST00064,58,Male,Married,Non-Graduate,Salaried,1062557,129083,120,484,No,Semiurban,Gujarat,Car,Approved,Yes,7.95,1930.87
+CUST00065,55,Female,Single,Graduate,Salaried,344990,608819,48,655,Yes,Urban,Uttar Pradesh,Business,Rejected,No,12.98,19269.12
+CUST00066,36,Male,Single,Non-Graduate,Self-Employed,1407094,1369432,48,530,No,Urban,Maharashtra,Education,Approved,No,9.58,39462.47
+CUST00067,28,Female,Single,Non-Graduate,Self-Employed,324040,1464821,12,499,Yes,Urban,Uttar Pradesh,Education,Approved,No,8.79,132798.23
+CUST00068,37,Female,Married,Non-Graduate,Self-Employed,868406,1950463,24,809,Yes,Urban,Rajasthan,Education,Approved,No,15.43,106349
+CUST00069,37,Male,Single,Non-Graduate,Self-Employed,1771714,1697608,240,837,No,Urban,Maharashtra,Car,Approved,No,7.17,17216.57
+CUST00070,46,Female,Married,Graduate,Self-Employed,618034,827147,360,451,Yes,Urban,Punjab,Education,Rejected,No,10.94,9838.45
+CUST00071,33,Female,Married,Non-Graduate,Salaried,956254,1098382,180,839,Yes,Semiurban,Tamil Nadu,Car,Approved,No,7.19,12683.26
+CUST00072,37,Female,Single,Non-Graduate,Self-Employed,1233255,704037,180,503,Yes,Semiurban,Delhi,Business,Rejected,No,11.35,10570.33
+CUST00073,58,Female,Married,Graduate,Salaried,990756,1890117,240,555,Yes,Semiurban,Punjab,Car,Approved,No,11.51,26004.86
+CUST00074,37,Female,Single,Graduate,Self-Employed,995543,1088836,120,709,Yes,Rural,Rajasthan,Business,Approved,No,9.89,18047.46
+CUST00075,34,Male,Married,Non-Graduate,Salaried,1155614,1934276,240,759,Yes,Rural,Uttar Pradesh,Home,Approved,No,8.19,21260.92
+CUST00076,26,Female,Single,Non-Graduate,Self-Employed,740677,1854673,360,640,Yes,Urban,Karnataka,Home,Approved,Yes,10.39,21210.25
+CUST00077,55,Male,Married,Graduate,Self-Employed,1895041,891047,24,667,Yes,Semiurban,Delhi,Home,Approved,Yes,13.05,46817.09
+CUST00078,34,Male,Single,Graduate,Self-Employed,1552147,656791,84,493,No,Rural,Punjab,Car,Approved,Yes,14.04,15503.4
+CUST00079,28,Male,Single,Graduate,Self-Employed,1197083,1352922,36,611,Yes,Rural,Delhi,Home,Approved,No,11.78,50862.35
+CUST00080,35,Male,Married,Non-Graduate,Self-Employed,1932682,659996,84,651,Yes,Semiurban,Maharashtra,Home,Approved,Yes,12.31,14627.55
+CUST00081,47,Male,Married,Non-Graduate,Self-Employed,1371459,765472,36,719,No,Rural,Tamil Nadu,Home,Approved,No,8.81,26882.95
+CUST00082,33,Male,Single,Graduate,Salaried,1991822,1725335,180,800,No,Rural,Delhi,Business,Approved,No,9.59,23373.5
+CUST00083,51,Female,Married,Non-Graduate,Self-Employed,962501,1094244,48,753,No,Semiurban,Uttar Pradesh,Education,Approved,No,8.46,30511.17
+CUST00084,55,Female,Married,Graduate,Salaried,587952,828513,360,720,Yes,Rural,Uttar Pradesh,Car,Approved,No,9.24,8680.98
+CUST00085,26,Female,Married,Non-Graduate,Self-Employed,312221,1256237,84,664,No,Semiurban,Gujarat,Home,Rejected,No,9.02,24397.92
+CUST00086,25,Male,Single,Graduate,Salaried,1230117,1783951,240,701,No,Rural,Gujarat,Business,Approved,No,11.68,24796.92
+CUST00087,42,Female,Single,Graduate,Salaried,999666,210081,24,639,Yes,Semiurban,Delhi,Education,Approved,No,12.06,10864.69
+CUST00088,43,Female,Married,Non-Graduate,Salaried,460669,1968317,24,745,Yes,Rural,Maharashtra,Education,Approved,No,15.5,107437.3
+CUST00089,45,Female,Married,Non-Graduate,Salaried,959224,438590,120,662,No,Rural,Maharashtra,Education,Approved,Yes,8.76,6856.62
+CUST00090,54,Male,Single,Non-Graduate,Salaried,1039873,1815982,24,657,No,Semiurban,Karnataka,Business,Approved,No,12.78,95006.12
+CUST00091,46,Female,Married,Non-Graduate,Salaried,725134,943093,24,686,Yes,Rural,Rajasthan,Home,Approved,No,14.36,50581.22
+CUST00092,25,Male,Single,Non-Graduate,Self-Employed,1783818,731503,48,787,Yes,Semiurban,Rajasthan,Education,Approved,No,12.04,22579.06
+CUST00093,46,Female,Married,Non-Graduate,Salaried,1589959,1104730,240,816,Yes,Semiurban,Punjab,Business,Approved,No,9.3,13164.7
+CUST00094,40,Male,Married,Graduate,Self-Employed,444761,727164,180,502,Yes,Rural,Rajasthan,Business,Approved,Yes,9.36,9711.68
+CUST00095,26,Male,Married,Non-Graduate,Self-Employed,1032946,1009192,24,729,Yes,Urban,Tamil Nadu,Car,Approved,No,7.35,48230.97
+CUST00096,26,Male,Single,Graduate,Salaried,1074668,1162864,180,666,No,Rural,Maharashtra,Business,Approved,No,9.75,15908.63
+CUST00097,38,Female,Single,Graduate,Salaried,337541,101195,48,701,Yes,Urban,Karnataka,Education,Approved,No,13.7,3263.54
+CUST00098,24,Female,Single,Non-Graduate,Self-Employed,1147609,332725,24,637,Yes,Urban,Gujarat,Education,Approved,No,7.43,15923.66
+CUST00099,37,Male,Single,Graduate,Salaried,264323,495864,360,829,Yes,Rural,Uttar Pradesh,Business,Approved,No,8.97,5083.98
+CUST00100,34,Female,Married,Graduate,Salaried,816210,342231,120,490,Yes,Urban,Rajasthan,Education,Rejected,No,13.36,6662.1
+CUST00101,34,Male,Married,Non-Graduate,Salaried,1437715,755290,84,606,Yes,Semiurban,Gujarat,Business,Approved,No,14.04,17828.44
+CUST00102,33,Male,Single,Non-Graduate,Salaried,1429024,214053,360,464,No,Semiurban,Gujarat,Education,Rejected,Yes,11.1,2574.58
+CUST00103,27,Female,Married,Non-Graduate,Salaried,1949523,643586,60,750,Yes,Urban,Delhi,Car,Approved,No,13.28,17848.79
+CUST00104,35,Female,Married,Graduate,Salaried,1154480,1931175,12,514,No,Semiurban,Tamil Nadu,Home,Approved,No,10.49,177812.94
+CUST00105,39,Female,Single,Non-Graduate,Salaried,435659,1829240,24,794,Yes,Rural,Karnataka,Car,Approved,No,8.44,89083.99
+CUST00106,55,Male,Married,Non-Graduate,Self-Employed,589678,1535200,180,776,No,Semiurban,Tamil Nadu,Car,Approved,No,10.58,22064.24
+CUST00107,37,Male,Married,Non-Graduate,Salaried,1054016,1138075,12,458,No,Urban,Delhi,Home,Rejected,No,12.22,106428.98
+CUST00108,55,Female,Single,Non-Graduate,Self-Employed,1353113,1486536,36,793,Yes,Rural,Karnataka,Education,Approved,No,15.53,60530.92
+CUST00109,39,Male,Married,Graduate,Self-Employed,1064909,495485,24,578,Yes,Semiurban,Karnataka,Home,Rejected,No,7.62,23791.54
+CUST00110,40,Female,Married,Non-Graduate,Self-Employed,441983,1792495,60,585,Yes,Rural,Maharashtra,Business,Rejected,Yes,11.57,47157.56
+CUST00111,56,Male,Married,Graduate,Self-Employed,1815397,1343774,48,512,Yes,Urban,Tamil Nadu,Home,Approved,No,9.96,39148.62
+CUST00112,55,Female,Single,Non-Graduate,Salaried,988260,1566111,120,588,Yes,Semiurban,Tamil Nadu,Car,Approved,No,11.57,28150.85
+CUST00113,52,Female,Single,Graduate,Self-Employed,1250493,1865861,60,530,No,Rural,Maharashtra,Home,Rejected,Yes,7.22,42323.95
+CUST00114,60,Male,Married,Graduate,Self-Employed,482762,1719211,180,841,Yes,Rural,Punjab,Education,Approved,No,9.82,23620.05
+CUST00115,44,Female,Married,Graduate,Self-Employed,1805118,1409507,48,612,Yes,Semiurban,Gujarat,Car,Approved,No,14.38,46255.32
+CUST00116,37,Female,Married,Non-Graduate,Self-Employed,986275,1396208,84,738,No,Rural,Delhi,Business,Approved,No,11.99,30571.97
+CUST00117,27,Male,Single,Graduate,Self-Employed,1616012,386585,48,828,Yes,Rural,Tamil Nadu,Education,Approved,No,11.06,11616.88
+CUST00118,21,Female,Single,Non-Graduate,Salaried,1758506,1828599,24,710,No,Urban,Maharashtra,Car,Approved,No,9.57,90774.7
+CUST00119,55,Male,Single,Non-Graduate,Salaried,771650,72431,12,680,Yes,Urban,Uttar Pradesh,Business,Approved,Yes,9.68,6620.19
+CUST00120,52,Female,Married,Non-Graduate,Self-Employed,482272,1422401,12,490,No,Urban,Punjab,Education,Rejected,Yes,10.45,130920.16
+CUST00121,56,Male,Married,Non-Graduate,Salaried,585925,1293131,180,477,Yes,Urban,Karnataka,Business,Approved,Yes,14.52,22830.95
+CUST00122,33,Female,Married,Non-Graduate,Salaried,966641,697008,48,584,No,Urban,Rajasthan,Home,Rejected,No,15.7,23640.19
+CUST00123,26,Female,Married,Graduate,Self-Employed,914743,623441,60,650,No,Urban,Uttar Pradesh,Home,Approved,No,10.95,16079.58
+CUST00124,34,Female,Married,Non-Graduate,Self-Employed,789833,318512,180,777,Yes,Semiurban,Maharashtra,Business,Approved,No,10.54,4567.11
+CUST00125,57,Female,Single,Graduate,Self-Employed,1330756,948792,120,717,Yes,Urban,Rajasthan,Home,Approved,No,14.62,19466.05
+CUST00126,35,Male,Married,Graduate,Salaried,1860822,226076,180,482,Yes,Rural,Gujarat,Business,Approved,No,10.84,3298.2
+CUST00127,24,Male,Married,Graduate,Self-Employed,603081,1318300,180,497,No,Semiurban,Delhi,Education,Approved,No,11.97,20473.93
+CUST00128,60,Male,Married,Graduate,Salaried,1119723,1997763,84,511,No,Rural,Rajasthan,Car,Rejected,No,9.08,38899.3
+CUST00129,36,Male,Single,Graduate,Salaried,501953,1679849,360,665,No,Urban,Punjab,Business,Approved,No,13.69,23830.52
+CUST00130,48,Male,Married,Graduate,Salaried,578892,1935077,24,742,Yes,Urban,Gujarat,Car,Approved,No,11.79,99640.34
+CUST00131,36,Male,Single,Graduate,Self-Employed,205287,1413046,84,548,Yes,Rural,Rajasthan,Car,Approved,Yes,14.28,33637.22
+CUST00132,24,Male,Single,Non-Graduate,Salaried,1506241,1731601,12,621,No,Rural,Karnataka,Business,Approved,No,14.03,164545.39
+CUST00133,46,Female,Single,Graduate,Self-Employed,1257088,1834997,12,809,Yes,Rural,Karnataka,Home,Approved,No,8.94,166587.14
+CUST00134,48,Female,Single,Non-Graduate,Self-Employed,856702,728758,36,663,No,Semiurban,Punjab,Education,Approved,No,13.44,28405.37
+CUST00135,52,Female,Single,Graduate,Self-Employed,1704868,803753,36,484,Yes,Urban,Karnataka,Car,Approved,No,14.2,31837.55
+CUST00136,22,Female,Married,Graduate,Self-Employed,1357448,100861,60,676,Yes,Rural,Karnataka,Education,Approved,No,10.11,2530.77
+CUST00137,51,Male,Married,Graduate,Self-Employed,293070,1436617,12,550,No,Urban,Maharashtra,Car,Rejected,No,8.55,129953.98
+CUST00138,23,Male,Single,Graduate,Salaried,1852631,1311553,360,580,Yes,Rural,Karnataka,Business,Rejected,No,7.02,11315.79
+CUST00139,28,Male,Single,Non-Graduate,Salaried,822117,701406,84,706,Yes,Urban,Uttar Pradesh,Home,Approved,No,11.06,14814.7
+CUST00140,44,Female,Single,Non-Graduate,Salaried,1144118,1953585,120,454,Yes,Semiurban,Karnataka,Education,Rejected,No,10.17,32836.51
+CUST00141,35,Male,Married,Non-Graduate,Salaried,1678050,771001,360,667,Yes,Urban,Uttar Pradesh,Car,Approved,No,11.99,9845.25
+CUST00142,51,Female,Married,Graduate,Salaried,1211293,59078,36,704,Yes,Rural,Maharashtra,Business,Approved,No,8.69,2068.88
+CUST00143,29,Male,Single,Graduate,Self-Employed,1290654,374912,48,847,No,Urban,Karnataka,Business,Approved,No,14.74,12415.84
+CUST00144,59,Male,Married,Graduate,Self-Employed,1617008,1673911,360,808,Yes,Semiurban,Punjab,Car,Approved,No,9.32,17650.46
+CUST00145,22,Male,Married,Non-Graduate,Salaried,807812,908058,360,732,No,Semiurban,Gujarat,Car,Approved,Yes,9.04,9363.09
+CUST00146,28,Male,Single,Graduate,Salaried,427645,894092,360,842,Yes,Urban,Punjab,Car,Approved,No,11.33,10925.31
+CUST00147,27,Female,Single,Non-Graduate,Salaried,1785083,1858322,360,656,Yes,Rural,Gujarat,Home,Approved,No,11.49,22955.44
+CUST00148,59,Female,Married,Non-Graduate,Self-Employed,986667,1017290,360,464,No,Semiurban,Tamil Nadu,Car,Rejected,No,8.94,10404.62
+CUST00149,36,Male,Married,Graduate,Self-Employed,1553649,1493717,36,795,No,Semiurban,Gujarat,Car,Approved,No,9.45,53255.16
+CUST00150,55,Female,Married,Graduate,Self-Employed,1375885,265048,12,491,Yes,Urban,Delhi,Home,Rejected,No,8.53,23971.38
+CUST00151,50,Male,Single,Non-Graduate,Salaried,1578164,810581,180,829,Yes,Semiurban,Delhi,Business,Approved,No,13.47,13602
+CUST00152,30,Male,Single,Non-Graduate,Salaried,1912503,1740696,360,628,No,Semiurban,Delhi,Car,Approved,No,13.93,25041.85
+CUST00153,58,Male,Single,Non-Graduate,Salaried,1088266,966838,360,512,No,Rural,Maharashtra,Education,Rejected,Yes,11.16,11677.25
+CUST00154,38,Male,Married,Graduate,Salaried,1712584,699438,24,801,No,Rural,Punjab,Business,Approved,No,13.43,36971.13
+CUST00155,25,Female,Married,Graduate,Self-Employed,1969377,1255663,12,680,No,Rural,Gujarat,Education,Approved,No,13.62,118890.36
+CUST00156,49,Male,Single,Graduate,Salaried,546699,83320,180,690,Yes,Urban,Punjab,Car,Approved,No,8.24,1035.02
+CUST00157,59,Male,Married,Graduate,Salaried,1584418,377025,120,501,Yes,Semiurban,Uttar Pradesh,Home,Rejected,Yes,15.7,8074.62
+CUST00158,54,Female,Single,Graduate,Salaried,586594,665115,120,545,Yes,Urban,Delhi,Home,Approved,Yes,14.39,13518.46
+CUST00159,43,Male,Married,Graduate,Self-Employed,972608,1611863,48,837,Yes,Semiurban,Tamil Nadu,Home,Approved,No,8.84,45454.54
+CUST00160,25,Female,Single,Non-Graduate,Self-Employed,1909351,414359,240,671,Yes,Semiurban,Maharashtra,Car,Approved,Yes,8.68,4723.69
+CUST00161,50,Male,Married,Non-Graduate,Salaried,1940095,993793,84,680,No,Semiurban,Tamil Nadu,Car,Approved,Yes,8.13,18563.82
+CUST00162,26,Male,Married,Non-Graduate,Self-Employed,1292501,1358507,24,686,No,Rural,Gujarat,Education,Approved,Yes,8.25,65944.19
+CUST00163,24,Male,Single,Graduate,Self-Employed,1244027,993187,12,592,No,Urban,Karnataka,Home,Rejected,Yes,13.73,94129.3
+CUST00164,49,Male,Single,Non-Graduate,Self-Employed,337023,456845,12,620,Yes,Urban,Tamil Nadu,Car,Rejected,No,11.23,42345.72
+CUST00165,43,Male,Single,Graduate,Self-Employed,1335964,1946558,240,478,No,Semiurban,Karnataka,Business,Rejected,No,14.05,30901.61
+CUST00166,26,Male,Single,Graduate,Self-Employed,732295,1647690,48,485,Yes,Urban,Maharashtra,Car,Approved,No,13.72,53165.46
+CUST00167,52,Female,Single,Non-Graduate,Salaried,1506378,150734,60,462,Yes,Rural,Tamil Nadu,Car,Rejected,No,12.44,4074.84
+CUST00168,38,Male,Married,Graduate,Salaried,1683624,207702,36,609,Yes,Urban,Tamil Nadu,Business,Rejected,No,13.18,8050.76
+CUST00169,35,Female,Single,Non-Graduate,Salaried,258596,804122,48,776,No,Semiurban,Rajasthan,Home,Approved,No,7.17,21557.17
+CUST00170,60,Female,Single,Non-Graduate,Self-Employed,1148027,1275811,180,636,Yes,Rural,Maharashtra,Business,Approved,Yes,9.81,17517.59
+CUST00171,52,Male,Single,Graduate,Self-Employed,551005,1197087,48,692,Yes,Rural,Maharashtra,Home,Approved,No,12.74,37648.39
+CUST00172,29,Female,Single,Non-Graduate,Self-Employed,1073172,1033939,240,535,No,Semiurban,Delhi,Business,Rejected,No,7.08,10408.32
+CUST00173,57,Male,Single,Non-Graduate,Self-Employed,1788388,1372373,240,733,Yes,Urban,Gujarat,Education,Approved,Yes,7.3,14066.82
+CUST00174,30,Female,Married,Non-Graduate,Salaried,722244,1781897,84,515,No,Semiurban,Tamil Nadu,Home,Approved,No,14.67,42996.75
+CUST00175,40,Male,Single,Non-Graduate,Salaried,1661074,656229,24,619,Yes,Urban,Punjab,Car,Rejected,No,13.16,34539.52
+CUST00176,26,Female,Single,Graduate,Salaried,879290,779497,360,494,No,Urban,Tamil Nadu,Education,Rejected,No,9.39,8264.83
+CUST00177,23,Female,Single,Non-Graduate,Salaried,699097,1918670,120,511,Yes,Rural,Uttar Pradesh,Home,Approved,Yes,13.19,37078.3
+CUST00178,31,Male,Married,Non-Graduate,Salaried,849789,148818,240,583,Yes,Semiurban,Maharashtra,Home,Rejected,Yes,14.13,2372.41
+CUST00179,37,Female,Married,Non-Graduate,Salaried,1396632,1023950,84,733,No,Rural,Punjab,Home,Approved,No,9.76,20518.01
+CUST00180,52,Male,Single,Graduate,Self-Employed,1262636,202360,36,477,Yes,Semiurban,Maharashtra,Business,Approved,Yes,7.32,6855.51
+CUST00181,24,Male,Single,Non-Graduate,Self-Employed,1986921,1876491,120,557,No,Semiurban,Gujarat,Home,Rejected,No,15.4,39719.06
+CUST00182,24,Male,Married,Graduate,Salaried,1725848,669369,60,493,Yes,Rural,Maharashtra,Car,Approved,No,10.11,16795.58
+CUST00183,37,Male,Married,Non-Graduate,Self-Employed,1767121,611165,12,789,No,Semiurban,Karnataka,Home,Approved,No,7.96,54984.48
+CUST00184,39,Male,Married,Non-Graduate,Salaried,1029735,423706,36,735,Yes,Semiurban,Karnataka,Car,Approved,No,11.43,15805.41
+CUST00185,25,Female,Single,Non-Graduate,Salaried,1438855,982817,60,780,Yes,Urban,Rajasthan,Car,Approved,No,13.92,27780.96
+CUST00186,52,Female,Single,Graduate,Self-Employed,930406,1310533,120,577,Yes,Semiurban,Karnataka,Car,Approved,No,8.99,20739.18
+CUST00187,42,Female,Married,Graduate,Salaried,1933223,122715,36,797,No,Semiurban,Karnataka,Education,Approved,No,9.43,4373.09
+CUST00188,26,Male,Single,Graduate,Salaried,1288287,191398,84,680,No,Rural,Gujarat,Car,Approved,Yes,9.18,3742.74
+CUST00189,55,Female,Married,Graduate,Salaried,1391602,1732955,60,639,No,Rural,Tamil Nadu,Business,Approved,No,15.93,51887.56
+CUST00190,42,Female,Married,Graduate,Self-Employed,535484,1617628,12,674,No,Semiurban,Karnataka,Home,Approved,No,8.78,146637.98
+CUST00191,21,Female,Married,Graduate,Self-Employed,665317,1231208,360,834,No,Urban,Punjab,Business,Approved,No,12.18,15916.78
+CUST00192,40,Female,Single,Non-Graduate,Self-Employed,1189024,915580,84,826,Yes,Urban,Rajasthan,Education,Approved,Yes,15.33,22596.3
+CUST00193,42,Female,Married,Graduate,Self-Employed,418134,133186,180,732,Yes,Rural,Maharashtra,Home,Approved,No,8.32,1663.35
+CUST00194,31,Male,Married,Non-Graduate,Salaried,1351550,1785826,12,570,Yes,Semiurban,Karnataka,Car,Approved,No,15.74,172242.92
+CUST00195,33,Male,Single,Graduate,Self-Employed,1398222,1249670,24,565,Yes,Semiurban,Rajasthan,Home,Rejected,No,15.53,68242.4
+CUST00196,23,Female,Married,Graduate,Self-Employed,1650976,644604,48,682,Yes,Urban,Gujarat,Education,Approved,No,14.96,21465.31
+CUST00197,29,Male,Single,Graduate,Self-Employed,1398744,1126956,24,708,No,Urban,Uttar Pradesh,Education,Approved,No,8.93,55342.93
+CUST00198,32,Male,Married,Non-Graduate,Salaried,1840592,684486,240,808,Yes,Urban,Uttar Pradesh,Business,Approved,No,12.71,10101.87
+CUST00199,43,Female,Single,Graduate,Self-Employed,889376,314500,360,647,No,Rural,Uttar Pradesh,Home,Approved,No,13.85,4503.47
+CUST00200,34,Female,Married,Graduate,Self-Employed,1784110,120326,180,586,Yes,Semiurban,Maharashtra,Home,Rejected,Yes,15.87,2259.79
+CUST00201,53,Male,Married,Non-Graduate,Salaried,638774,928879,180,767,No,Rural,Rajasthan,Home,Approved,No,8.62,11832.89
+CUST00202,38,Female,Married,Non-Graduate,Salaried,711937,689282,48,614,No,Semiurban,Karnataka,Business,Rejected,No,13.89,22338.48
+CUST00203,29,Male,Married,Non-Graduate,Salaried,611597,270971,60,674,No,Rural,Tamil Nadu,Education,Approved,No,10.05,6785.57
+CUST00204,43,Male,Married,Non-Graduate,Salaried,1114228,856481,48,756,Yes,Semiurban,Maharashtra,Car,Approved,No,8.58,23967.19
+CUST00205,30,Female,Single,Graduate,Self-Employed,1153959,1567509,240,683,Yes,Urban,Maharashtra,Home,Approved,No,10.79,20625.81
+CUST00206,39,Male,Single,Non-Graduate,Salaried,292263,1990369,24,621,Yes,Urban,Uttar Pradesh,Business,Approved,No,14.14,106385.22
+CUST00207,25,Male,Married,Graduate,Self-Employed,1121522,1901090,180,601,Yes,Urban,Tamil Nadu,Business,Approved,No,11.18,28273.43
+CUST00208,43,Male,Married,Graduate,Self-Employed,1784166,1885669,24,764,No,Rural,Uttar Pradesh,Car,Approved,No,11.84,97174.81
+CUST00209,50,Female,Married,Non-Graduate,Self-Employed,1053938,1267060,12,823,No,Urban,Maharashtra,Education,Approved,No,15.96,122440.23
+CUST00210,45,Female,Single,Graduate,Self-Employed,1814021,1081519,360,609,No,Semiurban,Karnataka,Home,Rejected,No,10.59,12548.62
+CUST00211,48,Female,Single,Non-Graduate,Self-Employed,1827781,839352,36,545,No,Rural,Uttar Pradesh,Home,Approved,No,12.54,32086.56
+CUST00212,54,Female,Married,Graduate,Salaried,1472386,534410,240,682,Yes,Semiurban,Uttar Pradesh,Business,Approved,No,10.29,6809.27
+CUST00213,45,Male,Single,Non-Graduate,Self-Employed,1345222,1868242,36,629,No,Rural,Punjab,Education,Approved,No,10.54,68305
+CUST00214,30,Female,Married,Non-Graduate,Self-Employed,545266,1440281,240,562,Yes,Semiurban,Uttar Pradesh,Home,Approved,No,13.26,21916.28
+CUST00215,34,Female,Married,Non-Graduate,Self-Employed,1738601,1893954,120,767,No,Semiurban,Maharashtra,Car,Approved,No,15.44,40151.82
+CUST00216,50,Female,Married,Non-Graduate,Salaried,680703,275314,360,501,No,Rural,Karnataka,Education,Approved,Yes,11.88,3490.37
+CUST00217,45,Female,Single,Non-Graduate,Self-Employed,1174323,1537292,12,717,No,Rural,Tamil Nadu,Education,Approved,No,13.92,145940.25
+CUST00218,34,Male,Married,Non-Graduate,Self-Employed,543054,1858476,360,744,Yes,Urban,Delhi,Business,Approved,No,7.8,17242.53
+CUST00219,55,Male,Married,Graduate,Salaried,1106862,1901317,60,835,Yes,Urban,Tamil Nadu,Business,Approved,No,8.9,45790.05
+CUST00220,54,Male,Married,Graduate,Self-Employed,1516128,1678094,240,836,No,Semiurban,Karnataka,Home,Approved,No,11.52,23101.76
+CUST00221,30,Female,Single,Graduate,Self-Employed,1307955,1996830,36,562,No,Semiurban,Gujarat,Business,Rejected,No,7.18,67415.2
+CUST00222,55,Female,Single,Non-Graduate,Salaried,1273629,1590448,240,550,No,Semiurban,Uttar Pradesh,Education,Approved,No,9.28,18926.33
+CUST00223,31,Male,Single,Graduate,Self-Employed,1651238,566998,60,562,Yes,Rural,Tamil Nadu,Home,Approved,No,11.66,14959.3
+CUST00224,31,Female,Married,Non-Graduate,Self-Employed,1904858,997531,240,530,Yes,Rural,Gujarat,Home,Approved,No,7.13,10083.38
+CUST00225,41,Female,Single,Graduate,Self-Employed,298723,1618560,360,636,Yes,Urban,Gujarat,Education,Approved,No,9.38,17147.74
+CUST00226,41,Male,Married,Graduate,Self-Employed,775644,515757,84,562,No,Semiurban,Karnataka,Home,Approved,Yes,11.63,11138.51
+CUST00227,42,Male,Single,Non-Graduate,Self-Employed,1521509,1473060,240,451,Yes,Urban,Karnataka,Car,Rejected,No,12.16,21064.76
+CUST00228,27,Female,Married,Graduate,Salaried,1053088,558062,120,579,No,Rural,Punjab,Car,Rejected,No,15.33,11779.76
+CUST00229,37,Female,Single,Graduate,Salaried,1280730,1682185,120,669,Yes,Rural,Uttar Pradesh,Home,Approved,No,12.81,31975.53
+CUST00230,22,Female,Married,Graduate,Salaried,1462518,182028,180,503,No,Rural,Delhi,Business,Rejected,Yes,10.73,2638.9
+CUST00231,32,Male,Single,Non-Graduate,Self-Employed,464480,281447,120,792,No,Urban,Rajasthan,Car,Approved,Yes,15.37,5950.26
+CUST00232,38,Male,Single,Graduate,Self-Employed,1614397,910563,240,673,Yes,Rural,Maharashtra,Home,Approved,No,14.06,14462.78
+CUST00233,31,Male,Single,Non-Graduate,Self-Employed,481173,1539700,240,674,No,Semiurban,Tamil Nadu,Car,Approved,Yes,8.8,17706.55
+CUST00234,36,Male,Married,Graduate,Salaried,1045633,1045843,84,834,No,Urban,Karnataka,Business,Approved,No,8.18,19579.68
+CUST00235,38,Female,Single,Graduate,Self-Employed,1280841,1910971,120,575,No,Rural,Tamil Nadu,Education,Approved,No,13.08,36754.34
+CUST00236,55,Male,Single,Graduate,Self-Employed,1613636,676045,24,579,Yes,Urban,Rajasthan,Home,Approved,No,12.04,34951.53
+CUST00237,46,Male,Single,Graduate,Self-Employed,1491898,1531235,240,502,No,Urban,Rajasthan,Home,Approved,Yes,14.11,24384.92
+CUST00238,36,Female,Single,Non-Graduate,Salaried,1234057,1984267,12,621,Yes,Rural,Uttar Pradesh,Home,Approved,No,13.65,187926.62
+CUST00239,26,Female,Married,Graduate,Salaried,1423520,351207,12,667,Yes,Rural,Gujarat,Home,Approved,Yes,12.63,32963.7
+CUST00240,32,Female,Single,Non-Graduate,Self-Employed,1819061,1474945,36,609,No,Urban,Uttar Pradesh,Home,Approved,Yes,15.88,60489.13
+CUST00241,33,Male,Married,Non-Graduate,Self-Employed,1696972,1477120,84,647,Yes,Urban,Maharashtra,Home,Approved,No,11.8,32109.78
+CUST00242,24,Female,Married,Graduate,Self-Employed,1403358,1441538,60,696,No,Rural,Delhi,Business,Approved,No,8.02,33659.91
+CUST00243,59,Female,Married,Graduate,Salaried,1933422,316847,24,773,Yes,Semiurban,Tamil Nadu,Education,Approved,No,14.45,17017.32
+CUST00244,22,Male,Married,Non-Graduate,Salaried,1320483,770488,240,652,No,Urban,Maharashtra,Business,Approved,No,9.27,9162.39
+CUST00245,46,Male,Single,Non-Graduate,Salaried,402967,646387,360,633,Yes,Urban,Punjab,Business,Approved,No,14,9336.7
+CUST00246,47,Female,Married,Graduate,Self-Employed,1551351,469065,48,572,No,Semiurban,Delhi,Education,Approved,No,15.61,15873.94
+CUST00247,47,Male,Married,Graduate,Salaried,1639758,737220,48,850,No,Rural,Tamil Nadu,Business,Approved,No,13.27,23511.17
+CUST00248,35,Female,Married,Graduate,Self-Employed,1530823,81585,60,704,No,Rural,Maharashtra,Car,Approved,No,12.36,2200.08
+CUST00249,28,Female,Married,Graduate,Self-Employed,264772,1513807,180,743,No,Semiurban,Karnataka,Business,Rejected,No,11.14,22463.21
+CUST00250,27,Male,Single,Graduate,Salaried,326108,1045043,360,729,Yes,Rural,Tamil Nadu,Home,Rejected,No,10.28,11855.43
+CUST00251,60,Female,Single,Non-Graduate,Self-Employed,1262958,1666449,48,774,Yes,Rural,Maharashtra,Car,Approved,Yes,10.18,48854.73
+CUST00252,32,Male,Married,Graduate,Salaried,1332867,339102,60,821,No,Urban,Rajasthan,Car,Approved,No,12.73,9249.01
+CUST00253,33,Male,Married,Graduate,Self-Employed,563339,1386737,48,547,Yes,Urban,Delhi,Education,Rejected,No,13.76,44791.61
+CUST00254,37,Male,Married,Non-Graduate,Self-Employed,1907692,1485397,84,647,No,Urban,Maharashtra,Business,Approved,No,13.11,33911.26
+CUST00255,37,Female,Single,Graduate,Salaried,1531329,1012854,36,844,No,Semiurban,Karnataka,Business,Approved,No,8.79,35553.99
+CUST00256,56,Male,Single,Graduate,Self-Employed,347550,1914434,180,689,Yes,Rural,Uttar Pradesh,Car,Rejected,No,11.45,28902.64
+CUST00257,41,Male,Single,Non-Graduate,Self-Employed,1480626,329922,84,593,Yes,Rural,Tamil Nadu,Business,Approved,Yes,14.12,7809.73
+CUST00258,28,Female,Single,Graduate,Self-Employed,632882,750601,360,546,No,Urban,Punjab,Business,Approved,Yes,11.28,9140.65
+CUST00259,25,Female,Single,Non-Graduate,Self-Employed,537827,1140805,60,650,Yes,Urban,Tamil Nadu,Education,Approved,No,11.83,30259.85
+CUST00260,46,Female,Married,Graduate,Self-Employed,1247843,1185228,24,573,No,Semiurban,Tamil Nadu,Car,Rejected,No,13.94,63152.9
+CUST00261,36,Female,Single,Graduate,Self-Employed,1740889,964699,360,636,Yes,Rural,Karnataka,Home,Approved,Yes,12.95,13090.43
+CUST00262,56,Male,Single,Graduate,Self-Employed,1635434,299474,360,775,Yes,Semiurban,Delhi,Car,Approved,No,10.68,3497.19
+CUST00263,48,Male,Married,Non-Graduate,Self-Employed,1903194,1802300,120,798,Yes,Rural,Tamil Nadu,Education,Approved,No,15.06,37638.03
+CUST00264,49,Male,Single,Non-Graduate,Salaried,795603,962935,24,708,Yes,Semiurban,Delhi,Education,Approved,No,8.46,46910.98
+CUST00265,32,Female,Single,Non-Graduate,Salaried,588349,310116,12,597,Yes,Urban,Maharashtra,Education,Rejected,No,15.96,29967.54
+CUST00266,57,Female,Single,Non-Graduate,Self-Employed,1262729,921310,120,701,No,Semiurban,Rajasthan,Business,Approved,No,8.07,13873.39
+CUST00267,50,Male,Married,Graduate,Self-Employed,1226919,1942064,60,795,Yes,Semiurban,Punjab,Car,Approved,No,7.13,43906.83
+CUST00268,43,Female,Single,Non-Graduate,Salaried,1849189,994994,12,596,Yes,Urban,Rajasthan,Business,Approved,No,15.01,95361.88
+CUST00269,36,Female,Married,Non-Graduate,Self-Employed,1489349,570985,48,597,No,Rural,Delhi,Business,Approved,Yes,9.2,16273.07
+CUST00270,34,Male,Married,Non-Graduate,Salaried,1303894,69975,48,801,No,Rural,Delhi,Car,Approved,No,13.57,2249.11
+CUST00271,30,Male,Single,Graduate,Salaried,594030,207795,360,648,No,Urban,Rajasthan,Education,Approved,No,14.3,3053.43
+CUST00272,27,Female,Single,Graduate,Salaried,1625753,1515071,120,757,Yes,Semiurban,Tamil Nadu,Home,Approved,No,14.73,31223.09
+CUST00273,57,Female,Single,Non-Graduate,Self-Employed,276077,1307949,240,577,Yes,Semiurban,Gujarat,Home,Approved,Yes,15.92,22801.91
+CUST00274,49,Female,Single,Non-Graduate,Self-Employed,1076906,979065,24,488,No,Semiurban,Gujarat,Car,Approved,No,9.65,48667.69
+CUST00275,23,Male,Married,Graduate,Self-Employed,333515,1074939,12,787,No,Rural,Karnataka,Car,Rejected,No,13.39,101572.78
+CUST00276,35,Male,Single,Non-Graduate,Salaried,1193497,1295709,24,809,No,Semiurban,Punjab,Education,Approved,No,8.04,62669.13
+CUST00277,56,Male,Married,Non-Graduate,Salaried,1455564,924829,120,578,No,Rural,Uttar Pradesh,Car,Approved,Yes,10.66,15922.47
+CUST00278,39,Male,Married,Non-Graduate,Salaried,325885,1803089,360,716,Yes,Semiurban,Rajasthan,Car,Rejected,No,14.63,26991.24
+CUST00279,33,Male,Married,Non-Graduate,Self-Employed,1096209,1393862,84,600,Yes,Urban,Rajasthan,Education,Approved,No,10.31,28569.19
+CUST00280,41,Female,Married,Graduate,Salaried,741656,1911924,48,747,Yes,Urban,Karnataka,Education,Approved,No,12.32,59460.84
+CUST00281,57,Female,Married,Graduate,Salaried,870688,1687188,12,548,Yes,Rural,Punjab,Business,Rejected,No,11.53,156810.06
+CUST00282,47,Female,Single,Graduate,Self-Employed,388014,1274613,12,712,Yes,Rural,Gujarat,Car,Approved,No,12.81,119824.24
+CUST00283,49,Male,Married,Non-Graduate,Salaried,291751,438076,60,701,No,Urban,Maharashtra,Home,Approved,No,15.76,13054.66
+CUST00284,40,Male,Married,Non-Graduate,Salaried,430203,710008,12,593,Yes,Urban,Tamil Nadu,Car,Approved,Yes,7.5,63604.88
+CUST00285,45,Male,Single,Graduate,Self-Employed,1013738,740493,120,795,No,Semiurban,Tamil Nadu,Home,Approved,No,12.17,13680.61
+CUST00286,26,Female,Single,Graduate,Self-Employed,895275,1018181,12,561,No,Urban,Maharashtra,Home,Approved,No,14.77,97380.53
+CUST00287,56,Male,Married,Graduate,Salaried,1023651,670347,12,509,No,Rural,Maharashtra,Home,Rejected,No,11.33,62191.44
+CUST00288,22,Male,Married,Non-Graduate,Self-Employed,1460527,1062092,24,818,Yes,Urban,Punjab,Business,Approved,No,7.71,51077.77
+CUST00289,42,Female,Single,Graduate,Salaried,1753731,672605,360,451,No,Rural,Gujarat,Education,Rejected,No,12.04,8616.82
+CUST00290,52,Male,Married,Non-Graduate,Self-Employed,395716,775495,36,834,Yes,Rural,Karnataka,Education,Approved,No,9.99,27997.52
+CUST00291,36,Female,Single,Non-Graduate,Salaried,784567,1395766,12,753,No,Semiurban,Maharashtra,Business,Approved,No,8.39,126072.56
+CUST00292,38,Male,Single,Graduate,Self-Employed,515172,1538856,240,703,Yes,Semiurban,Karnataka,Education,Approved,No,14.64,25185.94
+CUST00293,25,Male,Married,Graduate,Salaried,1090695,151459,360,589,No,Semiurban,Punjab,Business,Approved,Yes,11.69,1896.18
+CUST00294,56,Female,Single,Non-Graduate,Self-Employed,200126,811985,180,486,Yes,Semiurban,Uttar Pradesh,Car,Approved,No,15.4,14931.5
+CUST00295,50,Female,Married,Graduate,Self-Employed,1038761,250422,60,609,No,Urban,Delhi,Business,Approved,No,14.25,7147.46
+CUST00296,39,Female,Married,Graduate,Self-Employed,1276208,1930901,24,458,No,Semiurban,Tamil Nadu,Education,Rejected,Yes,13.24,101758.48
+CUST00297,43,Female,Married,Non-Graduate,Self-Employed,700315,1200096,60,682,No,Urban,Gujarat,Education,Approved,No,7.05,27052.16
+CUST00298,54,Female,Single,Non-Graduate,Self-Employed,1969246,635560,84,548,No,Semiurban,Tamil Nadu,Car,Rejected,No,10.85,13312.71
+CUST00299,33,Female,Married,Non-Graduate,Self-Employed,1358521,797512,12,596,Yes,Semiurban,Gujarat,Business,Approved,No,8.78,72294.46
+CUST00300,49,Male,Single,Non-Graduate,Self-Employed,517320,566123,48,753,Yes,Rural,Punjab,Car,Approved,No,15.2,18965.12
+CUST00301,56,Male,Married,Non-Graduate,Salaried,1499445,1428369,240,657,Yes,Urban,Delhi,Home,Approved,No,8.57,16152.47
+CUST00302,42,Female,Married,Graduate,Salaried,941426,376818,24,580,No,Rural,Tamil Nadu,Business,Approved,Yes,9.57,18705.87
+CUST00303,56,Male,Single,Non-Graduate,Self-Employed,698716,1086548,60,601,No,Semiurban,Delhi,Car,Approved,No,11.65,28657.7
+CUST00304,29,Female,Married,Non-Graduate,Self-Employed,1243917,194832,12,503,No,Urban,Punjab,Car,Rejected,No,9.37,17757.31
+CUST00305,59,Male,Married,Non-Graduate,Salaried,1423975,202999,48,569,No,Semiurban,Gujarat,Education,Approved,No,8.89,5733.03
+CUST00306,39,Female,Single,Graduate,Salaried,662120,398619,48,610,No,Rural,Maharashtra,Business,Approved,No,12.39,12420.3
+CUST00307,58,Male,Single,Non-Graduate,Self-Employed,1383445,111367,84,565,No,Urban,Uttar Pradesh,Home,Approved,Yes,7.8,2049.68
+CUST00308,26,Male,Single,Non-Graduate,Salaried,378954,803315,360,524,Yes,Rural,Tamil Nadu,Home,Rejected,No,7.52,7265.54
+CUST00309,35,Male,Married,Non-Graduate,Salaried,869078,455804,240,562,Yes,Semiurban,Delhi,Business,Approved,No,10.35,5830.49
+CUST00310,40,Male,Single,Graduate,Self-Employed,1283136,958182,36,553,Yes,Semiurban,Rajasthan,Business,Approved,No,13.49,37387.73
+CUST00311,29,Male,Single,Non-Graduate,Self-Employed,484260,807038,240,789,Yes,Semiurban,Tamil Nadu,Car,Approved,No,11.99,11426.31
+CUST00312,52,Female,Married,Non-Graduate,Self-Employed,332717,1334382,84,703,Yes,Urban,Tamil Nadu,Education,Approved,Yes,10.81,27906.06
+CUST00313,24,Female,Single,Non-Graduate,Salaried,1427171,954586,120,676,Yes,Rural,Tamil Nadu,Education,Approved,Yes,12.09,17572.34
+CUST00314,38,Female,Married,Graduate,Self-Employed,848373,1806169,360,561,Yes,Rural,Karnataka,Education,Rejected,No,10.29,20505.04
+CUST00315,25,Male,Married,Graduate,Self-Employed,579862,1143314,24,548,Yes,Semiurban,Delhi,Business,Rejected,Yes,15.43,62339.2
+CUST00316,40,Female,Single,Graduate,Salaried,694592,607685,360,602,No,Rural,Delhi,Education,Rejected,No,7.49,5480.98
+CUST00317,43,Male,Married,Graduate,Self-Employed,1348734,1442909,84,798,No,Urban,Tamil Nadu,Car,Approved,No,13.06,32881.15
+CUST00318,31,Male,Single,Non-Graduate,Salaried,1957109,1437087,84,833,No,Semiurban,Punjab,Business,Approved,No,15.02,35095.72
+CUST00319,57,Male,Single,Non-Graduate,Salaried,1417078,1092377,24,815,No,Semiurban,Punjab,Business,Approved,No,14.23,58469.48
+CUST00320,42,Female,Single,Graduate,Salaried,1681074,252332,24,787,No,Semiurban,Maharashtra,Education,Approved,No,8.66,12334.83
+CUST00321,24,Male,Single,Graduate,Salaried,530388,432729,24,643,No,Urban,Tamil Nadu,Home,Approved,No,9.66,21513.84
+CUST00322,49,Female,Married,Non-Graduate,Salaried,1915630,1961627,360,759,No,Semiurban,Karnataka,Home,Approved,No,13.45,27435.53
+CUST00323,54,Female,Married,Non-Graduate,Salaried,518408,1210029,12,612,Yes,Semiurban,Gujarat,Car,Approved,No,7.76,108660.6
+CUST00324,33,Male,Single,Graduate,Self-Employed,668276,1118392,60,657,Yes,Semiurban,Karnataka,Education,Approved,No,14.31,31976.69
+CUST00325,29,Male,Single,Graduate,Self-Employed,1214920,1009744,180,618,No,Semiurban,Punjab,Education,Rejected,No,13.47,16944.07
+CUST00326,51,Female,Married,Graduate,Self-Employed,257545,973780,24,610,Yes,Rural,Maharashtra,Business,Rejected,No,13.57,51586
+CUST00327,27,Female,Single,Graduate,Salaried,711411,819299,60,517,Yes,Semiurban,Punjab,Business,Approved,No,7.9,19048.7
+CUST00328,24,Female,Married,Non-Graduate,Self-Employed,1025656,1964538,180,738,Yes,Urban,Punjab,Education,Approved,No,13.46,32949.67
+CUST00329,39,Female,Single,Graduate,Salaried,1220020,1515291,360,847,Yes,Semiurban,Punjab,Business,Approved,No,13.12,20776.32
+CUST00330,50,Female,Married,Graduate,Self-Employed,1084377,1056080,60,726,Yes,Semiurban,Tamil Nadu,Education,Approved,No,14.48,30344.7
+CUST00331,51,Female,Married,Non-Graduate,Salaried,213224,421000,24,753,No,Rural,Punjab,Car,Approved,No,7.37,20127.31
+CUST00332,55,Male,Married,Non-Graduate,Self-Employed,240738,263567,36,833,Yes,Semiurban,Delhi,Business,Rejected,No,7.21,8904.9
+CUST00333,41,Female,Single,Non-Graduate,Salaried,1142654,1613509,84,841,No,Rural,Uttar Pradesh,Education,Approved,No,10.36,33138.4
+CUST00334,51,Female,Single,Non-Graduate,Self-Employed,1429336,645923,60,584,No,Urban,Rajasthan,Business,Approved,Yes,8.34,15254.55
+CUST00335,39,Female,Single,Non-Graduate,Salaried,1217433,1992811,48,644,No,Rural,Tamil Nadu,Car,Approved,No,12.03,61494.83
+CUST00336,51,Female,Single,Graduate,Self-Employed,666725,266184,48,850,Yes,Semiurban,Maharashtra,Business,Approved,No,15.26,8930.47
+CUST00337,52,Male,Single,Graduate,Salaried,863937,348090,60,577,No,Urban,Delhi,Education,Approved,Yes,10.52,8853.09
+CUST00338,22,Male,Married,Graduate,Self-Employed,1780934,367348,24,482,No,Semiurban,Karnataka,Business,Approved,Yes,14.6,19775.57
+CUST00339,30,Female,Married,Non-Graduate,Self-Employed,1374737,1281534,240,625,No,Rural,Punjab,Business,Approved,No,7,12815.34
+CUST00340,22,Female,Married,Graduate,Self-Employed,1781530,1039156,24,820,No,Urban,Gujarat,Education,Approved,No,8.52,50676.17
+CUST00341,22,Female,Married,Non-Graduate,Salaried,1044193,1376283,360,824,Yes,Urban,Gujarat,Home,Approved,No,7.27,12160.99
+CUST00342,44,Male,Married,Graduate,Salaried,498512,142324,24,471,No,Rural,Uttar Pradesh,Business,Rejected,No,9.95,7110.27
+CUST00343,37,Male,Married,Graduate,Salaried,862143,273536,360,687,No,Rural,Tamil Nadu,Business,Approved,No,15.17,4217.77
+CUST00344,52,Male,Married,Non-Graduate,Salaried,766202,1855808,240,607,No,Urban,Karnataka,Car,Approved,No,7.87,19903.54
+CUST00345,36,Male,Single,Non-Graduate,Salaried,1450155,1370567,36,487,No,Urban,Uttar Pradesh,Home,Approved,Yes,12.46,52302.36
+CUST00346,36,Male,Married,Graduate,Self-Employed,852026,76155,360,679,Yes,Rural,Rajasthan,Car,Approved,No,11.06,913.44
+CUST00347,59,Male,Single,Graduate,Salaried,1196530,391815,120,814,No,Semiurban,Rajasthan,Education,Approved,No,15.45,8309.74
+CUST00348,51,Female,Married,Graduate,Self-Employed,971253,1739755,48,500,No,Urban,Uttar Pradesh,Education,Approved,No,8.1,47988.24
+CUST00349,44,Male,Married,Graduate,Self-Employed,704471,1968318,84,713,No,Rural,Maharashtra,Car,Approved,No,8.91,38047.12
+CUST00350,21,Male,Single,Graduate,Salaried,1578246,510494,48,732,No,Semiurban,Gujarat,Business,Approved,No,7.27,13728.03
+CUST00351,31,Female,Married,Non-Graduate,Self-Employed,1006388,199381,360,476,No,Urban,Karnataka,Home,Approved,No,10.91,2366.54
+CUST00352,41,Male,Single,Non-Graduate,Salaried,1467543,1230267,120,675,No,Urban,Tamil Nadu,Car,Approved,Yes,9.5,19991.84
+CUST00353,24,Female,Married,Non-Graduate,Salaried,583152,1574986,12,726,Yes,Rural,Punjab,Car,Approved,No,14.83,150713.04
+CUST00354,27,Male,Single,Non-Graduate,Salaried,1154652,493324,36,735,No,Semiurban,Delhi,Education,Approved,No,12.44,18817.57
+CUST00355,46,Female,Married,Graduate,Self-Employed,294270,84707,36,546,Yes,Urban,Tamil Nadu,Business,Approved,No,12.53,3237.45
+CUST00356,32,Female,Single,Graduate,Salaried,1245482,987841,12,733,Yes,Semiurban,Tamil Nadu,Home,Approved,No,11.79,92025.62
+CUST00357,51,Female,Single,Non-Graduate,Salaried,1791961,1617053,84,816,No,Semiurban,Karnataka,Car,Approved,No,7.83,29801.9
+CUST00358,37,Female,Married,Graduate,Salaried,1914331,1966545,240,766,Yes,Urban,Gujarat,Home,Approved,No,11.01,26236.99
+CUST00359,53,Female,Married,Non-Graduate,Self-Employed,1395889,1820440,180,753,No,Semiurban,Karnataka,Home,Approved,No,16,34386.09
+CUST00360,31,Male,Single,Graduate,Salaried,358768,1801550,120,596,Yes,Urban,Delhi,Car,Rejected,Yes,14.52,36811.67
+CUST00361,48,Male,Married,Graduate,Self-Employed,1495302,796788,360,453,No,Semiurban,Uttar Pradesh,Home,Rejected,No,15.04,12199.71
+CUST00362,52,Female,Single,Graduate,Self-Employed,770451,403299,180,484,Yes,Urban,Karnataka,Education,Approved,Yes,14.41,7083.5
+CUST00363,21,Female,Married,Non-Graduate,Salaried,219816,1885289,84,641,Yes,Rural,Maharashtra,Business,Rejected,No,7.93,34902.53
+CUST00364,48,Female,Single,Non-Graduate,Self-Employed,1167344,1257068,240,498,No,Urban,Tamil Nadu,Business,Rejected,No,9.05,14718.17
+CUST00365,27,Male,Married,Non-Graduate,Self-Employed,957907,1572688,36,466,Yes,Urban,Gujarat,Business,Rejected,Yes,7.03,52899.11
+CUST00366,22,Female,Single,Non-Graduate,Salaried,514997,220102,360,621,Yes,Urban,Punjab,Education,Approved,No,9.73,2396.05
+CUST00367,44,Female,Married,Graduate,Salaried,1404565,444274,360,669,Yes,Semiurban,Rajasthan,Education,Approved,No,7.98,4188.52
+CUST00368,24,Female,Single,Graduate,Salaried,1869595,267285,240,607,Yes,Rural,Delhi,Education,Rejected,No,11.26,3621.71
+CUST00369,39,Female,Single,Graduate,Self-Employed,1925502,1436980,48,495,Yes,Semiurban,Rajasthan,Business,Rejected,No,13.09,45612.14
+CUST00370,46,Male,Married,Graduate,Salaried,1455100,1258052,120,822,No,Semiurban,Tamil Nadu,Home,Approved,No,14.87,26073.13
+CUST00371,31,Female,Married,Non-Graduate,Self-Employed,1835687,808842,240,455,Yes,Urban,Karnataka,Education,Rejected,Yes,13.74,12631.42
+CUST00372,60,Female,Single,Graduate,Self-Employed,1238896,1072788,24,548,Yes,Semiurban,Rajasthan,Car,Approved,No,15.45,58511.65
+CUST00373,31,Male,Single,Graduate,Self-Employed,1400454,1259504,24,829,No,Urban,Maharashtra,Education,Approved,No,7.49,60340.74
+CUST00374,23,Female,Single,Graduate,Self-Employed,930880,1763136,240,682,No,Rural,Karnataka,Car,Approved,Yes,7.11,17792.98
+CUST00375,32,Female,Single,Non-Graduate,Self-Employed,1774623,900610,36,486,No,Semiurban,Tamil Nadu,Business,Rejected,No,12.95,34736.03
+CUST00376,23,Male,Married,Non-Graduate,Salaried,981452,346141,240,729,Yes,Semiurban,Rajasthan,Car,Approved,No,9.6,4211.38
+CUST00377,47,Male,Single,Non-Graduate,Salaried,1683741,993115,60,798,Yes,Semiurban,Punjab,Education,Approved,No,9.28,24232.01
+CUST00378,22,Male,Single,Graduate,Self-Employed,333554,1742137,84,751,Yes,Urban,Uttar Pradesh,Education,Approved,No,9.98,35228.5
+CUST00379,36,Female,Single,Non-Graduate,Self-Employed,651282,1795171,24,630,Yes,Urban,Delhi,Home,Approved,No,9.43,88905.84
+CUST00380,22,Female,Married,Graduate,Salaried,1342077,1347076,180,544,No,Semiurban,Rajasthan,Business,Approved,Yes,11.6,20505.49
+CUST00381,50,Male,Single,Graduate,Salaried,464223,1788993,240,548,No,Semiurban,Punjab,Car,Rejected,No,10.96,23793.61
+CUST00382,40,Male,Married,Graduate,Self-Employed,1308252,1230887,24,637,Yes,Rural,Uttar Pradesh,Business,Approved,Yes,11.61,63195.79
+CUST00383,58,Male,Married,Non-Graduate,Self-Employed,1990380,1857610,84,565,Yes,Rural,Uttar Pradesh,Education,Approved,No,13.05,42315.91
+CUST00384,48,Female,Married,Non-Graduate,Salaried,1422108,295546,84,640,Yes,Rural,Rajasthan,Home,Approved,No,10.48,6099.51
+CUST00385,45,Female,Married,Graduate,Salaried,1863261,1295309,180,702,Yes,Rural,Gujarat,Education,Approved,No,9.26,17191.63
+CUST00386,52,Male,Married,Graduate,Self-Employed,797135,701233,360,610,No,Rural,Rajasthan,Education,Approved,No,8.5,6914.94
+CUST00387,30,Female,Married,Non-Graduate,Salaried,1866471,1668136,60,705,No,Urban,Tamil Nadu,Education,Approved,No,10.15,41911.92
+CUST00388,60,Male,Married,Non-Graduate,Salaried,420178,1974401,240,772,Yes,Rural,Uttar Pradesh,Car,Approved,No,13.68,30734.84
+CUST00389,53,Female,Single,Non-Graduate,Self-Employed,1398097,1946220,12,577,No,Rural,Delhi,Education,Approved,No,13.81,184582.75
+CUST00390,33,Female,Single,Graduate,Self-Employed,626752,1091592,240,467,Yes,Semiurban,Tamil Nadu,Business,Rejected,No,13,16373.88
+CUST00391,57,Female,Married,Graduate,Self-Employed,788365,196470,360,730,Yes,Urban,Maharashtra,Business,Approved,No,9.11,2037.28
+CUST00392,36,Female,Single,Graduate,Salaried,1024690,694318,120,672,No,Rural,Karnataka,Home,Approved,No,12.29,12896.96
+CUST00393,42,Male,Single,Non-Graduate,Self-Employed,903662,1417223,48,503,Yes,Rural,Rajasthan,Business,Approved,Yes,12.14,43863.05
+CUST00394,40,Female,Married,Non-Graduate,Salaried,1505585,1105146,36,507,No,Rural,Gujarat,Education,Approved,Yes,11.36,41160.55
+CUST00395,47,Female,Single,Non-Graduate,Self-Employed,1386293,380929,360,772,Yes,Semiurban,Delhi,Education,Approved,No,11.95,4851.55
+CUST00396,36,Male,Married,Graduate,Self-Employed,1630491,1631974,84,809,No,Semiurban,Gujarat,Business,Approved,No,11.43,34972.81
+CUST00397,54,Female,Single,Graduate,Salaried,762288,1597691,12,623,Yes,Semiurban,Gujarat,Home,Approved,No,12.09,149237.65
+CUST00398,52,Male,Married,Non-Graduate,Salaried,1799601,129141,36,729,No,Rural,Gujarat,Home,Approved,No,13.44,5033.63
+CUST00399,46,Male,Married,Graduate,Self-Employed,500709,62115,24,563,Yes,Semiurban,Rajasthan,Business,Approved,Yes,7.99,3001.71
+CUST00400,45,Female,Single,Non-Graduate,Self-Employed,1143026,1137638,240,737,Yes,Rural,Delhi,Car,Approved,No,13.75,17775.59
+CUST00401,22,Female,Single,Graduate,Salaried,1434816,859343,36,791,No,Urban,Delhi,Car,Approved,No,8.22,29757.14
+CUST00402,32,Male,Married,Non-Graduate,Self-Employed,1825351,1726925,24,600,Yes,Rural,Uttar Pradesh,Car,Rejected,No,7.6,82892.4
+CUST00403,60,Male,Married,Graduate,Salaried,1523062,1393276,48,576,No,Semiurban,Gujarat,Car,Approved,No,15.78,47348.16
+CUST00404,29,Male,Married,Graduate,Salaried,1551526,440479,24,604,No,Urban,Uttar Pradesh,Business,Rejected,No,15.61,24083.19
+CUST00405,32,Female,Single,Non-Graduate,Self-Employed,1559490,1624833,12,835,Yes,Rural,Uttar Pradesh,Home,Approved,No,7.54,145612.12
+CUST00406,46,Male,Single,Non-Graduate,Salaried,1327199,880185,84,722,Yes,Urban,Karnataka,Education,Approved,No,10.99,18539.42
+CUST00407,29,Male,Single,Non-Graduate,Salaried,1613897,447686,360,553,Yes,Urban,Rajasthan,Education,Rejected,Yes,8.68,4481.83
+CUST00408,30,Male,Single,Non-Graduate,Salaried,1217289,1220439,180,842,Yes,Urban,Rajasthan,Business,Approved,No,11.37,18343.88
+CUST00409,52,Female,Married,Non-Graduate,Self-Employed,1107425,846657,360,748,No,Rural,Tamil Nadu,Education,Approved,No,14.47,12561.1
+CUST00410,54,Male,Married,Graduate,Salaried,383675,1599652,360,695,Yes,Semiurban,Punjab,Car,Approved,No,15.56,25185.63
+CUST00411,40,Female,Married,Non-Graduate,Self-Employed,1985910,697296,24,625,Yes,Rural,Uttar Pradesh,Home,Approved,Yes,12.71,36439.53
+CUST00412,59,Female,Married,Non-Graduate,Self-Employed,1878811,1599302,240,488,Yes,Semiurban,Rajasthan,Business,Approved,No,10.19,20244.5
+CUST00413,22,Male,Single,Non-Graduate,Self-Employed,852465,1075799,36,619,No,Rural,Gujarat,Home,Rejected,Yes,12.43,41026.79
+CUST00414,21,Female,Married,Graduate,Salaried,1465030,1777132,180,696,Yes,Rural,Punjab,Business,Approved,No,9.81,24401.01
+CUST00415,56,Male,Married,Non-Graduate,Salaried,1198748,1728687,180,475,No,Rural,Maharashtra,Business,Approved,No,15.19,31486.11
+CUST00416,44,Female,Single,Non-Graduate,Self-Employed,1358151,850101,36,804,Yes,Semiurban,Gujarat,Business,Approved,No,14.83,34119.75
+CUST00417,47,Female,Single,Non-Graduate,Self-Employed,1233024,1733541,36,755,No,Rural,Delhi,Business,Approved,No,12.02,65518.22
+CUST00418,22,Male,Married,Graduate,Salaried,1456182,1869822,84,462,Yes,Urban,Rajasthan,Home,Approved,Yes,9.92,37716.98
+CUST00419,51,Male,Single,Graduate,Self-Employed,705815,1094257,12,765,Yes,Rural,Punjab,Education,Approved,No,9.64,99978.61
+CUST00420,34,Male,Married,Non-Graduate,Self-Employed,1541398,98320,48,840,No,Urban,Rajasthan,Business,Approved,No,7.3,2646.45
+CUST00421,22,Female,Single,Graduate,Salaried,276218,1014918,12,762,Yes,Semiurban,Tamil Nadu,Car,Approved,No,14.34,96704.77
+CUST00422,49,Female,Single,Non-Graduate,Self-Employed,787518,546758,36,485,Yes,Semiurban,Uttar Pradesh,Business,Rejected,Yes,11.05,20222.45
+CUST00423,35,Male,Married,Graduate,Salaried,970044,1245225,240,622,Yes,Rural,Maharashtra,Home,Approved,No,9.93,15492.67
+CUST00424,32,Male,Single,Non-Graduate,Salaried,1584775,1223930,60,469,No,Rural,Rajasthan,Business,Rejected,No,11.24,31862.98
+CUST00425,57,Female,Married,Graduate,Self-Employed,649589,662297,60,770,Yes,Rural,Tamil Nadu,Car,Approved,No,14.37,18969.29
+CUST00426,48,Female,Single,Non-Graduate,Salaried,1935416,1880301,48,713,No,Urban,Tamil Nadu,Home,Approved,No,8.12,51896.31
+CUST00427,40,Female,Single,Non-Graduate,Salaried,678446,498625,36,849,No,Semiurban,Maharashtra,Business,Approved,No,14.72,19967.16
+CUST00428,59,Male,Single,Graduate,Salaried,662052,78625,60,591,No,Urban,Gujarat,Car,Rejected,No,15.08,2298.47
+CUST00429,44,Female,Single,Non-Graduate,Self-Employed,1582978,786400,48,820,Yes,Urban,Gujarat,Home,Approved,Yes,15.52,26554.11
+CUST00430,41,Male,Single,Non-Graduate,Self-Employed,1288562,1384809,180,592,No,Rural,Gujarat,Business,Approved,No,10.58,19902.78
+CUST00431,30,Female,Married,Non-Graduate,Self-Employed,1928096,1135063,48,541,No,Rural,Karnataka,Car,Rejected,No,8.95,32112.82
+CUST00432,34,Female,Single,Non-Graduate,Salaried,547739,1557630,180,803,Yes,Urban,Uttar Pradesh,Home,Approved,No,10.36,22101.04
+CUST00433,57,Male,Married,Graduate,Salaried,1874222,1326647,84,771,No,Urban,Punjab,Business,Approved,Yes,10,26848.81
+CUST00434,38,Male,Single,Non-Graduate,Self-Employed,672327,1995456,60,737,No,Rural,Uttar Pradesh,Home,Approved,No,8.59,47541.74
+CUST00435,44,Male,Married,Graduate,Self-Employed,1575649,538011,48,664,Yes,Rural,Gujarat,Car,Approved,No,12.47,16799.39
+CUST00436,34,Female,Single,Graduate,Salaried,797794,1410858,48,791,Yes,Urban,Maharashtra,Business,Approved,No,11.29,42666.7
+CUST00437,54,Female,Married,Graduate,Self-Employed,234911,1272471,48,500,No,Rural,Karnataka,Business,Rejected,Yes,14.79,42193.02
+CUST00438,32,Female,Married,Graduate,Self-Employed,625037,480424,240,602,Yes,Rural,Uttar Pradesh,Business,Rejected,No,7.29,4920.34
+CUST00439,42,Male,Single,Non-Graduate,Self-Employed,930399,366205,48,635,Yes,Urban,Gujarat,Car,Approved,Yes,12.79,11532.41
+CUST00440,26,Female,Single,Non-Graduate,Self-Employed,1178039,998163,240,512,Yes,Urban,Karnataka,Education,Rejected,No,13.87,15696.11
+CUST00441,56,Male,Single,Graduate,Self-Employed,1099885,1097328,360,639,No,Semiurban,Punjab,Business,Approved,No,13.84,15703.98
+CUST00442,56,Male,Married,Non-Graduate,Salaried,808746,151376,84,574,No,Urban,Maharashtra,Car,Rejected,No,14.97,3690.51
+CUST00443,42,Male,Married,Graduate,Self-Employed,1260751,1523682,360,599,Yes,Rural,Gujarat,Home,Approved,Yes,13.56,21450.06
+CUST00444,34,Female,Single,Non-Graduate,Self-Employed,1105667,1964142,120,763,No,Urban,Punjab,Home,Approved,No,15.35,41492.5
+CUST00445,36,Female,Single,Non-Graduate,Salaried,516915,883487,360,507,Yes,Urban,Delhi,Car,Approved,Yes,9.99,9809.16
+CUST00446,56,Male,Married,Non-Graduate,Salaried,699876,817629,36,791,Yes,Urban,Punjab,Education,Approved,No,11.53,30567.97
+CUST00447,45,Female,Married,Graduate,Salaried,1894164,1380228,180,754,Yes,Semiurban,Rajasthan,Car,Approved,No,7.13,15868.79
+CUST00448,52,Male,Single,Graduate,Salaried,811213,1570708,36,629,Yes,Semiurban,Maharashtra,Home,Approved,No,7.06,52871.78
+CUST00449,53,Male,Married,Non-Graduate,Self-Employed,968734,208056,12,619,Yes,Rural,Punjab,Home,Rejected,No,9.16,18926.16
+CUST00450,56,Female,Single,Graduate,Self-Employed,1314934,684457,360,775,No,Semiurban,Punjab,Business,Approved,No,7.91,6412.98
+CUST00451,40,Male,Single,Graduate,Self-Employed,1659119,1893133,60,720,No,Urban,Tamil Nadu,Education,Approved,No,9.34,46287.1
+CUST00452,38,Male,Single,Non-Graduate,Self-Employed,247057,610347,24,503,No,Semiurban,Tamil Nadu,Car,Rejected,No,8.59,29800.19
+CUST00453,58,Female,Married,Graduate,Salaried,1516870,512785,360,550,No,Urban,Punjab,Home,Approved,No,7.26,4526.75
+CUST00454,23,Male,Married,Non-Graduate,Salaried,454726,1726273,84,713,Yes,Semiurban,Punjab,Home,Approved,No,15.18,42388.22
+CUST00455,43,Male,Married,Non-Graduate,Self-Employed,478176,1598229,360,502,Yes,Semiurban,Maharashtra,Home,Approved,No,7.07,13855.76
+CUST00456,52,Male,Married,Non-Graduate,Self-Employed,1775062,1082766,240,509,No,Semiurban,Tamil Nadu,Car,Rejected,No,13.62,16800.92
+CUST00457,36,Male,Single,Graduate,Self-Employed,908754,579992,12,557,No,Urban,Uttar Pradesh,Car,Approved,No,8.37,52378.11
+CUST00458,25,Male,Married,Non-Graduate,Self-Employed,1137583,1028080,48,454,Yes,Semiurban,Maharashtra,Education,Approved,No,15.21,34449.25
+CUST00459,24,Male,Single,Non-Graduate,Salaried,1415868,778744,12,552,Yes,Urban,Delhi,Business,Approved,No,15.04,74655.59
+CUST00460,41,Male,Single,Graduate,Self-Employed,344931,792488,12,645,Yes,Urban,Maharashtra,Business,Approved,No,12.89,74553.31
+CUST00461,60,Female,Single,Graduate,Salaried,1692252,685567,180,711,No,Rural,Gujarat,Business,Approved,No,13.05,11264.25
+CUST00462,34,Female,Married,Graduate,Salaried,362491,732568,24,814,Yes,Semiurban,Gujarat,Home,Approved,Yes,7.05,34827.5
+CUST00463,59,Male,Single,Graduate,Salaried,1629585,692804,12,821,Yes,Rural,Karnataka,Business,Approved,No,15.86,66890.23
+CUST00464,51,Male,Single,Non-Graduate,Salaried,601921,572828,180,799,No,Rural,Tamil Nadu,Home,Approved,Yes,14.9,10294.99
+CUST00465,34,Female,Married,Graduate,Self-Employed,460910,528366,48,496,No,Urban,Punjab,Education,Approved,No,15.06,17638.62
+CUST00466,26,Female,Single,Graduate,Self-Employed,1271812,771384,36,804,No,Semiurban,Rajasthan,Home,Approved,No,12.93,29739
+CUST00467,32,Female,Married,Graduate,Self-Employed,287955,1007386,48,760,Yes,Urban,Tamil Nadu,Education,Rejected,No,10.1,29466.04
+CUST00468,36,Female,Married,Graduate,Self-Employed,1989450,469139,60,757,Yes,Urban,Uttar Pradesh,Education,Approved,No,15.04,13698.86
+CUST00469,37,Female,Married,Non-Graduate,Salaried,827433,569777,12,593,No,Semiurban,Maharashtra,Business,Approved,Yes,9.62,52049.13
+CUST00470,43,Male,Single,Graduate,Salaried,1919294,1474764,12,718,Yes,Urban,Rajasthan,Business,Approved,No,12.06,137718.38
+CUST00471,34,Female,Married,Non-Graduate,Salaried,1479361,282549,36,819,Yes,Semiurban,Rajasthan,Home,Approved,No,7.9,9708.7
+CUST00472,27,Female,Married,Graduate,Self-Employed,1343490,1652029,84,573,Yes,Semiurban,Punjab,Car,Rejected,Yes,15.3,40730.38
+CUST00473,52,Female,Married,Non-Graduate,Salaried,407990,1690067,12,555,No,Urban,Punjab,Business,Rejected,No,8.27,152486.3
+CUST00474,35,Male,Married,Non-Graduate,Salaried,578387,534965,24,607,No,Urban,Tamil Nadu,Business,Rejected,No,9.02,26311.36
+CUST00475,37,Male,Single,Graduate,Salaried,738884,840546,120,596,Yes,Rural,Rajasthan,Car,Rejected,Yes,12.02,15424.02
+CUST00476,54,Male,Married,Non-Graduate,Salaried,1196261,1032469,12,594,Yes,Urban,Rajasthan,Car,Rejected,Yes,13.88,97981.31
+CUST00477,25,Male,Single,Graduate,Self-Employed,1905215,86321,120,569,Yes,Semiurban,Gujarat,Business,Approved,No,12.57,1623.55
+CUST00478,47,Male,Married,Non-Graduate,Salaried,1442845,385441,48,768,Yes,Rural,Delhi,Car,Approved,No,9.09,10949.74
+CUST00479,43,Male,Single,Non-Graduate,Salaried,592417,1981660,360,724,No,Semiurban,Punjab,Home,Approved,No,7.01,17080.81
+CUST00480,60,Female,Married,Non-Graduate,Self-Employed,1180020,1984312,84,541,No,Rural,Maharashtra,Education,Rejected,No,13.81,46458.89
+CUST00481,34,Male,Single,Graduate,Self-Employed,338155,1343590,180,507,Yes,Urban,Tamil Nadu,Education,Approved,Yes,15.87,25233.37
+CUST00482,35,Male,Married,Non-Graduate,Self-Employed,1369250,206498,240,795,Yes,Urban,Punjab,Business,Approved,No,14.29,3319.46
+CUST00483,53,Female,Single,Graduate,Salaried,1106739,1116348,84,678,No,Urban,Gujarat,Business,Approved,No,11.14,23653.29
+CUST00484,51,Male,Single,Non-Graduate,Salaried,1505289,1988762,240,566,Yes,Semiurban,Uttar Pradesh,Home,Rejected,No,15.13,33361.48
+CUST00485,55,Female,Single,Non-Graduate,Salaried,1690077,840144,48,767,No,Rural,Punjab,Car,Approved,No,10.69,24987.28
+CUST00486,37,Female,Married,Non-Graduate,Salaried,743351,444583,84,728,Yes,Semiurban,Uttar Pradesh,Business,Approved,No,11.72,9634.75
+CUST00487,48,Male,Single,Non-Graduate,Self-Employed,267642,288389,180,576,No,Rural,Karnataka,Education,Rejected,Yes,11.29,4315.42
+CUST00488,39,Female,Single,Non-Graduate,Salaried,290093,689430,240,842,Yes,Urban,Rajasthan,Home,Approved,No,11.03,9209.64
+CUST00489,43,Female,Single,Non-Graduate,Salaried,1756182,1714600,36,845,Yes,Semiurban,Rajasthan,Home,Approved,No,13.98,67602.87
+CUST00490,52,Female,Single,Graduate,Self-Employed,417215,1150500,24,578,No,Urban,Tamil Nadu,Car,Rejected,No,11.74,59193.22
+CUST00491,60,Female,Married,Graduate,Self-Employed,1955856,1626590,84,507,No,Semiurban,Delhi,Business,Approved,No,9.85,32715.76
+CUST00492,33,Male,Single,Graduate,Self-Employed,1932465,1449872,48,571,Yes,Urban,Delhi,Business,Approved,Yes,9.32,41466.34
+CUST00493,40,Female,Single,Non-Graduate,Salaried,235954,1126299,12,450,Yes,Semiurban,Tamil Nadu,Home,Approved,No,7.34,100747.45
+CUST00494,55,Male,Single,Graduate,Salaried,1276432,808470,180,688,No,Semiurban,Tamil Nadu,Education,Approved,Yes,12.25,12744.63
+CUST00495,25,Female,Married,Non-Graduate,Salaried,726861,1985502,240,739,No,Rural,Gujarat,Business,Approved,No,9.07,23280.01
+CUST00496,29,Female,Single,Graduate,Salaried,759655,714468,240,545,Yes,Urban,Uttar Pradesh,Education,Approved,Yes,8.33,7936.55
+CUST00497,49,Female,Single,Graduate,Salaried,695553,258786,24,575,Yes,Rural,Tamil Nadu,Home,Approved,No,12.88,13560.39
+CUST00498,26,Male,Single,Non-Graduate,Self-Employed,962092,1658507,240,567,No,Rural,Uttar Pradesh,Business,Rejected,Yes,13.13,25057.28
+CUST00499,45,Male,Single,Non-Graduate,Self-Employed,1086040,736684,120,497,No,Urban,Punjab,Education,Approved,No,13.77,14592.48
+CUST00500,51,Male,Married,Graduate,Salaried,522918,1988904,60,538,No,Semiurban,Punjab,Home,Approved,No,11.53,52258.45
+CUST00501,42,Female,Single,Graduate,Salaried,1272328,1313008,120,686,No,Rural,Karnataka,Education,Approved,Yes,15.05,27409.04
+CUST00502,22,Female,Single,Graduate,Salaried,1041461,1078400,240,822,No,Urban,Uttar Pradesh,Business,Approved,No,15.43,18359.76
+CUST00503,25,Female,Married,Graduate,Salaried,348757,1238575,180,834,Yes,Semiurban,Gujarat,Car,Approved,No,14.27,21609.69
+CUST00504,47,Female,Married,Non-Graduate,Salaried,1562413,930112,84,721,Yes,Rural,Punjab,Education,Approved,No,12.72,20931.95
+CUST00505,45,Male,Married,Graduate,Self-Employed,316739,408690,48,638,No,Rural,Rajasthan,Car,Approved,No,9.73,11828.17
+CUST00506,28,Female,Single,Non-Graduate,Self-Employed,1486585,989947,12,641,Yes,Rural,Rajasthan,Business,Approved,No,15.85,95571.13
+CUST00507,21,Male,Married,Non-Graduate,Self-Employed,980316,129973,84,518,Yes,Semiurban,Punjab,Car,Rejected,No,9.47,2573
+CUST00508,40,Female,Single,Graduate,Salaried,1456556,1948457,36,727,No,Rural,Punjab,Home,Approved,No,8.82,68444.96
+CUST00509,43,Male,Married,Non-Graduate,Salaried,1505185,684122,84,798,Yes,Semiurban,Punjab,Car,Approved,No,10.98,14404.03
+CUST00510,52,Male,Single,Graduate,Self-Employed,1637398,1859250,84,696,Yes,Rural,Uttar Pradesh,Education,Approved,Yes,7.51,33769.73
+CUST00511,31,Female,Married,Non-Graduate,Self-Employed,536676,1098173,48,525,Yes,Urban,Rajasthan,Education,Approved,Yes,15.81,37347.03
+CUST00512,59,Female,Single,Non-Graduate,Salaried,1592714,1552025,24,603,No,Rural,Rajasthan,Car,Approved,No,12.3,80575.96
+CUST00513,44,Male,Married,Graduate,Self-Employed,1566853,337681,240,593,No,Urban,Maharashtra,Home,Approved,No,12.01,4786.63
+CUST00514,31,Female,Single,Non-Graduate,Self-Employed,1214929,544509,24,535,Yes,Urban,Punjab,Business,Approved,Yes,12.9,28541.35
+CUST00515,49,Female,Single,Non-Graduate,Salaried,1766847,1962584,36,634,Yes,Urban,Karnataka,Car,Approved,No,11.47,73275.25
+CUST00516,46,Male,Single,Graduate,Self-Employed,523412,1730386,360,734,Yes,Semiurban,Punjab,Education,Approved,No,7.29,15318.72
+CUST00517,36,Male,Single,Non-Graduate,Self-Employed,685417,1645476,12,669,Yes,Urban,Gujarat,Education,Approved,No,12.51,154277.09
+CUST00518,55,Male,Single,Non-Graduate,Self-Employed,1680035,275049,120,518,Yes,Rural,Gujarat,Car,Rejected,Yes,13.45,5374.92
+CUST00519,40,Male,Single,Graduate,Salaried,388456,1367191,12,496,Yes,Semiurban,Rajasthan,Car,Rejected,No,10.75,126180.34
+CUST00520,23,Female,Single,Graduate,Self-Employed,755941,216703,240,543,No,Urban,Punjab,Car,Approved,No,13.82,3398.63
+CUST00521,21,Male,Single,Non-Graduate,Self-Employed,1406305,814357,12,687,Yes,Semiurban,Delhi,Business,Approved,Yes,9.04,73997.91
+CUST00522,21,Male,Married,Non-Graduate,Self-Employed,428504,797419,60,653,Yes,Semiurban,Gujarat,Education,Approved,Yes,8.99,19264.31
+CUST00523,37,Male,Single,Non-Graduate,Salaried,1894693,1129924,120,849,No,Semiurban,Punjab,Education,Approved,No,8.45,17372.58
+CUST00524,22,Female,Single,Graduate,Salaried,852665,1294380,36,667,Yes,Rural,Karnataka,Education,Approved,No,10.35,47119.03
+CUST00525,49,Male,Married,Non-Graduate,Self-Employed,1774486,1886185,240,790,Yes,Urban,Tamil Nadu,Business,Approved,No,14.62,30839.12
+CUST00526,40,Female,Single,Non-Graduate,Salaried,773044,185832,180,488,Yes,Semiurban,Punjab,Home,Rejected,No,14.45,3270.13
+CUST00527,26,Male,Married,Non-Graduate,Self-Employed,1289385,1393499,36,549,Yes,Semiurban,Karnataka,Education,Approved,No,10.45,50843.36
+CUST00528,28,Male,Single,Non-Graduate,Salaried,1789589,333780,60,738,No,Semiurban,Rajasthan,Education,Approved,No,12.3,8984.25
+CUST00529,49,Female,Married,Non-Graduate,Salaried,916756,1704753,120,703,Yes,Urban,Rajasthan,Home,Approved,No,13.49,33370.54
+CUST00530,53,Male,Married,Non-Graduate,Self-Employed,251226,1152127,48,671,No,Semiurban,Maharashtra,Business,Rejected,No,9.17,32806.82
+CUST00531,23,Male,Single,Graduate,Self-Employed,699512,454772,60,806,Yes,Semiurban,Uttar Pradesh,Home,Approved,No,8.51,10804.62
+CUST00532,55,Female,Married,Graduate,Self-Employed,1854046,1765499,36,472,Yes,Rural,Gujarat,Home,Approved,No,15.75,72213.81
+CUST00533,25,Male,Single,Non-Graduate,Salaried,1724357,621107,240,699,No,Urban,Uttar Pradesh,Home,Approved,No,12.56,9088.87
+CUST00534,47,Male,Single,Non-Graduate,Self-Employed,1277978,1434490,360,459,Yes,Rural,Punjab,Home,Approved,No,15.83,22908.01
+CUST00535,32,Male,Single,Graduate,Salaried,1252839,1058559,240,695,No,Urban,Uttar Pradesh,Business,Approved,No,10.04,13267.27
+CUST00536,40,Male,Single,Graduate,Salaried,1240993,470182,120,774,No,Urban,Gujarat,Business,Approved,Yes,13.33,9141.12
+CUST00537,40,Female,Married,Graduate,Self-Employed,1426476,1311357,360,549,No,Urban,Gujarat,Home,Approved,No,9,13477.84
+CUST00538,29,Male,Single,Non-Graduate,Salaried,772212,1551681,24,739,Yes,Rural,Punjab,Car,Approved,No,9.35,76743.56
+CUST00539,59,Female,Married,Non-Graduate,Self-Employed,536326,732347,120,629,Yes,Rural,Rajasthan,Car,Approved,No,11.61,13188.35
+CUST00540,24,Male,Married,Non-Graduate,Salaried,424137,1963722,120,672,Yes,Rural,Gujarat,Car,Approved,No,9.88,32532.33
+CUST00541,39,Female,Single,Non-Graduate,Self-Employed,1700844,1072378,60,843,Yes,Rural,Delhi,Car,Approved,No,8.51,25477.91
+CUST00542,58,Male,Single,Graduate,Salaried,1129168,763708,240,699,No,Semiurban,Delhi,Education,Approved,No,9.37,9145.4
+CUST00543,47,Female,Single,Graduate,Salaried,1546457,598884,36,596,Yes,Semiurban,Tamil Nadu,Business,Rejected,No,7.32,20288.86
+CUST00544,33,Male,Single,Graduate,Self-Employed,563476,900538,48,545,Yes,Semiurban,Gujarat,Business,Rejected,Yes,13.34,28772.19
+CUST00545,33,Female,Married,Graduate,Salaried,1600283,1075014,12,706,No,Urban,Maharashtra,Home,Approved,No,11.43,99824.01
+CUST00546,42,Female,Single,Non-Graduate,Self-Employed,1933309,1037471,84,774,No,Semiurban,Tamil Nadu,Education,Approved,No,7.85,19137.63
+CUST00547,48,Male,Married,Non-Graduate,Salaried,1759161,109182,48,453,Yes,Urban,Rajasthan,Home,Approved,Yes,8.55,3052.55
+CUST00548,42,Female,Single,Graduate,Salaried,891757,399307,12,465,No,Rural,Gujarat,Home,Approved,No,7.92,35911.01
+CUST00549,39,Male,Single,Graduate,Salaried,590719,351454,24,729,No,Urban,Delhi,Business,Approved,No,12.51,18307.82
+CUST00550,28,Male,Single,Graduate,Self-Employed,1727937,1416808,36,785,No,Urban,Maharashtra,Education,Approved,No,7.85,48624.06
+CUST00551,28,Male,Single,Graduate,Self-Employed,1349947,1751667,240,696,No,Semiurban,Punjab,Car,Approved,No,13.79,27428.19
+CUST00552,46,Male,Married,Graduate,Self-Employed,762997,1238554,180,707,No,Rural,Tamil Nadu,Business,Approved,Yes,7.18,14291.54
+CUST00553,46,Male,Married,Non-Graduate,Self-Employed,1233578,873346,120,833,Yes,Rural,Maharashtra,Education,Approved,No,9.24,14002.65
+CUST00554,43,Female,Single,Non-Graduate,Self-Employed,1440768,946782,48,609,Yes,Semiurban,Gujarat,Education,Rejected,Yes,15.02,31575.18
+CUST00555,33,Male,Married,Graduate,Salaried,1398898,1668243,12,789,Yes,Rural,Karnataka,Business,Approved,No,13.47,157746.28
+CUST00556,48,Male,Married,Graduate,Salaried,221172,1570404,180,601,Yes,Rural,Maharashtra,Business,Approved,No,7.66,18748.88
+CUST00557,29,Male,Single,Graduate,Self-Employed,735843,820188,48,845,Yes,Rural,Maharashtra,Home,Approved,No,14.39,26922.67
+CUST00558,40,Male,Single,Non-Graduate,Salaried,1196121,308517,36,627,Yes,Semiurban,Rajasthan,Home,Approved,No,11.44,11511.11
+CUST00559,39,Male,Married,Non-Graduate,Salaried,1826140,1005154,240,612,Yes,Rural,Delhi,Home,Rejected,No,14.62,16434.27
+CUST00560,59,Male,Married,Non-Graduate,Salaried,781780,1538673,360,829,No,Urban,Punjab,Car,Approved,No,12.41,20186.53
+CUST00561,32,Female,Married,Graduate,Salaried,908362,1407133,48,482,Yes,Urban,Gujarat,Business,Rejected,No,13.14,44723.38
+CUST00562,35,Female,Married,Non-Graduate,Self-Employed,713319,187084,48,628,Yes,Rural,Maharashtra,Education,Approved,No,15.94,6382.68
+CUST00563,51,Male,Single,Graduate,Salaried,980298,755475,240,550,Yes,Semiurban,Gujarat,Business,Rejected,No,9.09,8870.54
+CUST00564,34,Female,Single,Non-Graduate,Self-Employed,1076031,1892159,24,717,No,Semiurban,Delhi,Education,Approved,No,12.62,98739.16
+CUST00565,31,Male,Married,Non-Graduate,Self-Employed,1470896,632004,60,772,Yes,Semiurban,Rajasthan,Car,Approved,No,11.14,16400.5
+CUST00566,46,Male,Single,Non-Graduate,Salaried,1666554,930179,48,514,Yes,Rural,Gujarat,Business,Rejected,No,7.36,25083.83
+CUST00567,47,Male,Married,Graduate,Self-Employed,1259622,798013,240,617,No,Rural,Uttar Pradesh,Education,Approved,No,7.13,8066.58
+CUST00568,31,Male,Married,Graduate,Salaried,428071,741738,60,779,Yes,Urban,Delhi,Education,Approved,No,8.07,17350.49
+CUST00569,58,Male,Single,Non-Graduate,Salaried,578165,1796588,240,492,Yes,Semiurban,Delhi,Home,Rejected,Yes,12.84,26709.27
+CUST00570,54,Female,Married,Graduate,Salaried,908662,1302078,240,493,No,Urban,Punjab,Car,Rejected,No,12.1,18554.61
+CUST00571,39,Female,Married,Graduate,Self-Employed,616366,194539,24,734,Yes,Urban,Tamil Nadu,Business,Approved,No,11.98,10047.94
+CUST00572,26,Female,Single,Graduate,Self-Employed,1515573,474226,240,846,No,Semiurban,Rajasthan,Home,Approved,Yes,7.29,4856.86
+CUST00573,58,Female,Single,Graduate,Self-Employed,1212117,1620439,36,461,Yes,Rural,Rajasthan,Car,Approved,No,11.22,60163.3
+CUST00574,48,Male,Married,Graduate,Salaried,845188,1220575,48,544,Yes,Rural,Punjab,Home,Rejected,Yes,15.32,41011.32
+CUST00575,21,Female,Married,Graduate,Salaried,1731191,1213369,12,751,Yes,Urban,Uttar Pradesh,Business,Approved,No,10.58,111811.95
+CUST00576,55,Male,Single,Graduate,Salaried,615008,1555949,12,835,No,Urban,Gujarat,Education,Approved,No,12.62,146025.81
+CUST00577,60,Female,Married,Non-Graduate,Self-Employed,1831993,1468897,12,702,No,Urban,Karnataka,Business,Approved,No,14.02,139569.7
+CUST00578,28,Female,Married,Graduate,Salaried,1454126,62289,240,691,No,Urban,Uttar Pradesh,Car,Approved,Yes,14.06,989.36
+CUST00579,27,Female,Single,Graduate,Salaried,444883,750336,180,484,Yes,Semiurban,Tamil Nadu,Business,Rejected,No,11.67,11465.55
+CUST00580,31,Female,Single,Non-Graduate,Self-Employed,1886994,748956,60,664,Yes,Urban,Rajasthan,Car,Approved,No,14.72,21669.79
+CUST00581,59,Male,Single,Non-Graduate,Self-Employed,1709090,1854377,60,786,No,Urban,Delhi,Home,Approved,No,10.52,47162.99
+CUST00582,24,Female,Single,Non-Graduate,Self-Employed,1149491,1355944,240,539,No,Rural,Rajasthan,Car,Approved,No,15,22599.07
+CUST00583,45,Female,Single,Non-Graduate,Salaried,871210,136365,36,713,Yes,Rural,Uttar Pradesh,Education,Approved,No,9.16,4828.84
+CUST00584,32,Male,Single,Graduate,Salaried,1129616,804950,36,542,Yes,Rural,Karnataka,Education,Rejected,No,9.52,28745.66
+CUST00585,46,Male,Married,Non-Graduate,Salaried,1370365,1999022,120,539,Yes,Semiurban,Maharashtra,Education,Rejected,No,7.48,29119.09
+CUST00586,58,Female,Married,Non-Graduate,Self-Employed,879418,225211,240,564,Yes,Semiurban,Maharashtra,Home,Approved,No,14.16,3595.87
+CUST00587,32,Male,Single,Graduate,Self-Employed,900780,1278361,84,554,No,Rural,Punjab,Car,Rejected,No,10.75,26670.57
+CUST00588,57,Male,Single,Graduate,Self-Employed,1811754,1171164,24,840,Yes,Rural,Rajasthan,Home,Approved,No,9.06,57640.79
+CUST00589,44,Male,Married,Graduate,Self-Employed,1314593,113646,12,645,Yes,Urban,Rajasthan,Business,Approved,No,9.09,10331.37
+CUST00590,36,Female,Married,Non-Graduate,Salaried,1426952,315798,24,763,Yes,Urban,Tamil Nadu,Business,Approved,No,15.11,17134.67
+CUST00591,33,Male,Married,Graduate,Salaried,1936857,1580814,12,563,Yes,Semiurban,Rajasthan,Business,Approved,Yes,14.51,150849.18
+CUST00592,45,Female,Single,Non-Graduate,Salaried,699137,1903751,360,524,Yes,Semiurban,Karnataka,Business,Approved,Yes,11.98,24293.98
+CUST00593,24,Female,Single,Graduate,Salaried,856884,1933376,360,825,Yes,Urban,Rajasthan,Education,Approved,No,12.54,25574.27
+CUST00594,31,Female,Married,Graduate,Salaried,824712,1843961,240,666,Yes,Rural,Gujarat,Car,Approved,Yes,11.27,25001.04
+CUST00595,52,Female,Single,Non-Graduate,Salaried,893264,779532,360,726,No,Urban,Uttar Pradesh,Education,Approved,No,10.52,8999.26
+CUST00596,27,Male,Single,Graduate,Salaried,1041344,973945,180,698,No,Semiurban,Punjab,Car,Approved,No,15.24,17779.91
+CUST00597,31,Female,Single,Graduate,Salaried,1806872,1218311,120,613,No,Semiurban,Karnataka,Car,Rejected,No,8.13,18406.65
+CUST00598,48,Male,Married,Graduate,Self-Employed,1641852,205683,36,843,Yes,Urban,Tamil Nadu,Home,Approved,No,10.77,7559.42
+CUST00599,43,Female,Married,Graduate,Self-Employed,1978602,956323,180,806,No,Urban,Gujarat,Business,Approved,No,10.1,13361.96
+CUST00600,43,Male,Single,Graduate,Salaried,807847,682259,24,641,Yes,Urban,Gujarat,Car,Approved,No,11.48,34954.4
+CUST00601,48,Female,Single,Non-Graduate,Self-Employed,1303913,586437,24,676,Yes,Semiurban,Uttar Pradesh,Business,Approved,No,11.12,29869.19
+CUST00602,46,Male,Single,Non-Graduate,Salaried,1097048,1460822,360,626,Yes,Rural,Maharashtra,Business,Approved,No,11.67,18264.33
+CUST00603,45,Female,Single,Graduate,Salaried,1524070,1419909,36,548,Yes,Urban,Karnataka,Business,Approved,No,8.26,49215.62
+CUST00604,49,Female,Single,Non-Graduate,Self-Employed,1272930,1861840,120,485,No,Semiurban,Uttar Pradesh,Education,Approved,Yes,11.62,33544.15
+CUST00605,39,Male,Married,Non-Graduate,Salaried,1293762,1956039,12,545,Yes,Semiurban,Gujarat,Business,Approved,No,9.18,177966.95
+CUST00606,53,Female,Single,Non-Graduate,Salaried,752433,616956,180,601,Yes,Semiurban,Tamil Nadu,Car,Rejected,No,8.66,7879.9
+CUST00607,56,Female,Single,Graduate,Salaried,627236,1505465,120,600,No,Urban,Uttar Pradesh,Education,Approved,No,7.58,22055.06
+CUST00608,34,Female,Single,Graduate,Salaried,1858987,1044170,48,639,No,Urban,Maharashtra,Business,Approved,No,13.86,33813.71
+CUST00609,34,Male,Married,Graduate,Salaried,1748459,662492,60,673,No,Rural,Gujarat,Home,Approved,No,10.85,17031.57
+CUST00610,55,Female,Married,Non-Graduate,Salaried,1979122,261830,360,486,Yes,Semiurban,Uttar Pradesh,Business,Rejected,No,12.64,3485.25
+CUST00611,50,Female,Single,Non-Graduate,Salaried,940829,1295077,12,717,No,Urban,Karnataka,Business,Approved,Yes,13.55,122546.66
+CUST00612,48,Male,Married,Graduate,Self-Employed,1793445,1515461,48,818,Yes,Semiurban,Maharashtra,Education,Approved,No,13.11,48128.52
+CUST00613,37,Male,Married,Graduate,Self-Employed,1861793,215140,12,632,Yes,Semiurban,Karnataka,Car,Approved,No,11.23,19941.69
+CUST00614,23,Male,Married,Non-Graduate,Salaried,485195,1842725,12,462,No,Rural,Karnataka,Business,Approved,No,10.49,169668.9
+CUST00615,36,Male,Married,Non-Graduate,Self-Employed,775762,1239083,360,728,No,Urban,Karnataka,Education,Approved,No,10.38,14159.97
+CUST00616,50,Male,Married,Graduate,Salaried,816036,275160,12,666,No,Urban,Uttar Pradesh,Education,Approved,No,12.76,25855.87
+CUST00617,49,Female,Married,Non-Graduate,Salaried,1374571,1281897,120,804,Yes,Semiurban,Maharashtra,Car,Approved,No,11.45,22913.91
+CUST00618,35,Female,Single,Non-Graduate,Salaried,1494266,611672,120,810,Yes,Semiurban,Uttar Pradesh,Education,Approved,No,14.64,12559.67
+CUST00619,45,Female,Married,Non-Graduate,Salaried,1580346,571998,48,735,Yes,Rural,Uttar Pradesh,Car,Approved,No,14.87,19004.63
+CUST00620,58,Male,Married,Non-Graduate,Self-Employed,993392,656217,24,722,Yes,Rural,Uttar Pradesh,Home,Approved,No,8.54,32012.45
+CUST00621,58,Female,Single,Non-Graduate,Self-Employed,628988,1699017,36,818,Yes,Rural,Gujarat,Business,Approved,No,8.23,58847.34
+CUST00622,43,Male,Single,Non-Graduate,Self-Employed,380553,1857992,180,511,Yes,Rural,Rajasthan,Education,Rejected,No,12.67,29939.48
+CUST00623,45,Male,Single,Non-Graduate,Self-Employed,760696,125388,180,533,No,Rural,Delhi,Home,Approved,No,9.71,1711.2
+CUST00624,27,Female,Single,Graduate,Salaried,1080438,605689,84,817,Yes,Rural,Gujarat,Education,Approved,No,7.17,10829.58
+CUST00625,42,Male,Married,Graduate,Self-Employed,1508144,568727,360,666,No,Semiurban,Maharashtra,Education,Approved,No,15,8688.88
+CUST00626,37,Male,Married,Non-Graduate,Salaried,519278,1825767,240,791,No,Rural,Delhi,Home,Approved,Yes,9.04,21361.47
+CUST00627,38,Female,Married,Non-Graduate,Salaried,1400139,1742367,240,846,No,Semiurban,Delhi,Education,Approved,No,15.36,29562.16
+CUST00628,30,Male,Married,Non-Graduate,Self-Employed,1905277,282601,48,636,No,Semiurban,Delhi,Education,Approved,Yes,13.46,9057.36
+CUST00629,30,Male,Single,Graduate,Salaried,899983,1226410,12,468,No,Urban,Rajasthan,Home,Approved,No,13.86,116365.87
+CUST00630,27,Female,Married,Graduate,Self-Employed,1863191,1132660,12,626,Yes,Semiurban,Uttar Pradesh,Education,Approved,No,8.81,102703.95
+CUST00631,58,Male,Married,Non-Graduate,Self-Employed,593554,1350035,360,549,Yes,Semiurban,Punjab,Car,Rejected,No,9.11,13999.11
+CUST00632,47,Male,Single,Graduate,Self-Employed,1451079,1733505,60,845,Yes,Rural,Tamil Nadu,Education,Approved,No,11.69,45778.98
+CUST00633,53,Female,Married,Non-Graduate,Self-Employed,1391902,155111,24,682,Yes,Semiurban,Maharashtra,Business,Approved,No,8.55,7568.12
+CUST00634,21,Female,Married,Non-Graduate,Self-Employed,1955796,1547618,84,525,No,Rural,Punjab,Education,Approved,Yes,9.75,30998.42
+CUST00635,54,Female,Married,Non-Graduate,Salaried,1259920,479667,120,714,No,Rural,Rajasthan,Business,Approved,No,9.89,7950.48
+CUST00636,24,Female,Married,Non-Graduate,Self-Employed,594966,1761163,12,733,No,Rural,Rajasthan,Business,Approved,No,8.44,159150.43
+CUST00637,37,Male,Single,Non-Graduate,Self-Employed,1840821,212982,84,655,Yes,Urban,Tamil Nadu,Education,Approved,No,8.85,4106.24
+CUST00638,24,Male,Single,Non-Graduate,Salaried,305423,348185,180,672,Yes,Rural,Delhi,Home,Approved,No,14.1,6025.53
+CUST00639,46,Female,Single,Non-Graduate,Self-Employed,520197,1973928,60,833,Yes,Semiurban,Uttar Pradesh,Car,Approved,No,8.5,46880.79
+CUST00640,24,Male,Single,Graduate,Self-Employed,664071,1426401,120,501,Yes,Rural,Tamil Nadu,Car,Approved,Yes,7.26,20516.4
+CUST00641,21,Male,Single,Non-Graduate,Salaried,871256,284386,360,788,No,Rural,Punjab,Education,Approved,No,12.66,3790.23
+CUST00642,27,Female,Married,Graduate,Salaried,386833,1442291,84,816,No,Rural,Punjab,Home,Approved,No,15.78,36136.26
+CUST00643,50,Female,Married,Non-Graduate,Self-Employed,917912,1295129,48,593,Yes,Urban,Tamil Nadu,Home,Approved,No,9.98,37753.01
+CUST00644,29,Male,Single,Non-Graduate,Salaried,975435,511792,120,822,Yes,Semiurban,Rajasthan,Car,Approved,No,8.07,7706.73
+CUST00645,55,Female,Single,Graduate,Self-Employed,277454,551174,360,518,No,Urban,Maharashtra,Home,Approved,No,12.13,7102.49
+CUST00646,28,Female,Single,Graduate,Salaried,1506170,834625,240,548,No,Semiurban,Karnataka,Education,Approved,No,15.16,14021.7
+CUST00647,44,Female,Married,Non-Graduate,Self-Employed,1760473,701844,360,845,No,Urban,Uttar Pradesh,Education,Approved,No,14.06,10172.84
+CUST00648,39,Male,Single,Graduate,Self-Employed,1601320,245246,360,474,No,Semiurban,Punjab,Home,Approved,No,12.6,3256.32
+CUST00649,56,Female,Married,Non-Graduate,Self-Employed,1109164,1649024,120,828,Yes,Urban,Punjab,Education,Approved,No,9.84,27263.86
+CUST00650,47,Male,Married,Non-Graduate,Salaried,1764718,296242,60,502,No,Rural,Tamil Nadu,Business,Rejected,Yes,11.88,7870.16
+CUST00651,52,Male,Married,Graduate,Self-Employed,1145439,561083,120,600,No,Urban,Uttar Pradesh,Car,Rejected,Yes,7.82,8332.08
+CUST00652,34,Male,Married,Graduate,Salaried,237641,67633,36,593,No,Urban,Tamil Nadu,Education,Approved,No,13.11,2617.58
+CUST00653,38,Female,Single,Graduate,Self-Employed,1802575,1062384,24,506,No,Rural,Delhi,Home,Approved,Yes,13.53,56244.38
+CUST00654,48,Female,Married,Graduate,Self-Employed,1617616,1902022,60,488,Yes,Rural,Uttar Pradesh,Car,Approved,No,15.69,56569.3
+CUST00655,49,Female,Married,Non-Graduate,Self-Employed,1916118,916964,48,558,Yes,Semiurban,Delhi,Education,Rejected,No,9.34,26240.45
+CUST00656,36,Female,Single,Graduate,Self-Employed,812121,99104,60,630,Yes,Semiurban,Punjab,Car,Approved,Yes,7.17,2243.88
+CUST00657,55,Female,Married,Graduate,Self-Employed,518420,1009125,180,491,Yes,Semiurban,Rajasthan,Home,Rejected,Yes,11.91,15621.82
+CUST00658,51,Male,Married,Graduate,Salaried,481685,913663,48,635,Yes,Urban,Delhi,Business,Approved,No,13.36,29206.76
+CUST00659,24,Male,Married,Graduate,Salaried,1724102,1166964,240,847,Yes,Semiurban,Uttar Pradesh,Business,Approved,No,14.11,18583.9
+CUST00660,57,Male,Single,Graduate,Salaried,1293389,1638878,120,672,No,Urban,Gujarat,Education,Approved,No,8.74,25593.81
+CUST00661,37,Female,Married,Non-Graduate,Self-Employed,1941134,1191154,360,571,No,Urban,Uttar Pradesh,Business,Approved,No,9.36,12599.76
+CUST00662,59,Male,Married,Non-Graduate,Self-Employed,864180,739115,120,582,No,Semiurban,Tamil Nadu,Education,Approved,Yes,11.61,13310.23
+CUST00663,46,Male,Single,Graduate,Salaried,486214,614678,180,612,No,Semiurban,Delhi,Car,Rejected,Yes,9.98,8526.95
+CUST00664,59,Female,Single,Graduate,Self-Employed,1128626,1384431,84,664,Yes,Urban,Maharashtra,Education,Approved,No,14.74,33486.75
+CUST00665,24,Female,Married,Non-Graduate,Self-Employed,542703,1190234,180,670,No,Rural,Gujarat,Education,Approved,Yes,11.26,17780.77
+CUST00666,50,Male,Married,Graduate,Self-Employed,404615,107993,36,684,Yes,Rural,Rajasthan,Education,Approved,No,14.2,4277.72
+CUST00667,50,Male,Single,Non-Graduate,Salaried,1725233,255768,360,780,No,Urban,Karnataka,Business,Approved,No,12.23,3317.17
+CUST00668,42,Female,Married,Non-Graduate,Salaried,1814650,1256861,360,595,No,Semiurban,Tamil Nadu,Education,Rejected,No,13.96,18112.76
+CUST00669,31,Female,Single,Graduate,Salaried,1998870,821148,12,688,No,Urban,Tamil Nadu,Home,Approved,No,9.99,75265.06
+CUST00670,22,Female,Married,Non-Graduate,Salaried,599953,1072460,84,525,Yes,Urban,Maharashtra,Education,Rejected,No,14.48,25708.4
+CUST00671,32,Female,Single,Graduate,Salaried,1171741,1549576,12,458,No,Semiurban,Karnataka,Car,Rejected,No,9.47,141360.07
+CUST00672,50,Male,Married,Graduate,Self-Employed,1038003,843853,240,523,Yes,Rural,Punjab,Home,Approved,No,11.91,11891.3
+CUST00673,56,Male,Single,Non-Graduate,Self-Employed,1536230,792296,24,850,Yes,Urban,Karnataka,Car,Approved,No,8.93,38908.34
+CUST00674,38,Female,Single,Non-Graduate,Self-Employed,481570,592015,24,702,No,Rural,Rajasthan,Car,Approved,No,11.28,30232.23
+CUST00675,46,Male,Single,Graduate,Self-Employed,1285841,948850,120,679,Yes,Rural,Rajasthan,Car,Approved,Yes,9.86,15703.47
+CUST00676,27,Male,Single,Non-Graduate,Salaried,1497897,1627222,24,456,Yes,Semiurban,Gujarat,Home,Approved,Yes,9.4,80547.49
+CUST00677,21,Female,Single,Graduate,Salaried,266150,1425828,360,623,No,Urban,Punjab,Home,Approved,No,15.7,22615.22
+CUST00678,46,Male,Married,Non-Graduate,Self-Employed,1860176,307681,180,590,No,Urban,Tamil Nadu,Business,Approved,No,8.44,3873.36
+CUST00679,43,Male,Married,Non-Graduate,Salaried,1338189,144018,84,617,No,Rural,Delhi,Home,Rejected,No,14.09,3405.51
+CUST00680,46,Male,Single,Graduate,Self-Employed,537054,1485177,120,619,No,Rural,Rajasthan,Education,Rejected,No,15.86,32005.56
+CUST00681,26,Female,Married,Graduate,Self-Employed,321826,1392630,120,842,No,Semiurban,Maharashtra,Car,Approved,No,7.18,19937.82
+CUST00682,26,Female,Married,Graduate,Self-Employed,759723,1749752,84,732,No,Rural,Maharashtra,Business,Approved,No,13.29,40208.88
+CUST00683,28,Male,Married,Non-Graduate,Self-Employed,650348,279104,360,571,Yes,Semiurban,Maharashtra,Home,Approved,Yes,9.28,2933.69
+CUST00684,44,Female,Married,Graduate,Salaried,1458593,892186,240,643,No,Urban,Uttar Pradesh,Car,Approved,No,7.36,9189.52
+CUST00685,42,Female,Married,Graduate,Self-Employed,1199554,243510,240,454,No,Semiurban,Punjab,Home,Approved,No,10.63,3171.72
+CUST00686,39,Female,Married,Non-Graduate,Salaried,334055,1208423,120,478,Yes,Rural,Punjab,Business,Approved,No,15.42,25598.43
+CUST00687,57,Male,Single,Non-Graduate,Self-Employed,690457,1543293,240,614,No,Urban,Rajasthan,Home,Approved,No,7.11,15574.4
+CUST00688,38,Male,Married,Graduate,Self-Employed,876022,504162,360,788,Yes,Semiurban,Rajasthan,Home,Approved,No,12.29,6563.91
+CUST00689,51,Female,Married,Graduate,Self-Employed,1009942,874899,36,585,No,Urban,Maharashtra,Car,Approved,No,11.51,32694.49
+CUST00690,57,Male,Married,Graduate,Self-Employed,1982123,985129,36,814,No,Semiurban,Punjab,Education,Approved,No,14.86,39563.88
+CUST00691,50,Male,Single,Graduate,Salaried,896358,1394613,12,770,Yes,Rural,Punjab,Home,Approved,No,7.76,125236.25
+CUST00692,53,Male,Married,Non-Graduate,Self-Employed,1698638,1174905,60,791,No,Rural,Rajasthan,Business,Approved,No,13.13,32437.17
+CUST00693,30,Male,Married,Non-Graduate,Salaried,1342647,1129583,48,594,Yes,Urban,Uttar Pradesh,Home,Approved,No,13.12,35883.09
+CUST00694,57,Male,Married,Graduate,Self-Employed,1555267,1058806,24,776,No,Urban,Delhi,Home,Approved,No,13.02,55604.96
+CUST00695,32,Female,Single,Graduate,Self-Employed,1041052,744892,240,666,No,Urban,Delhi,Education,Approved,No,15.48,12712.82
+CUST00696,50,Male,Married,Graduate,Self-Employed,346389,1414973,36,750,Yes,Semiurban,Gujarat,Car,Approved,No,14.41,56296.27
+CUST00697,47,Male,Single,Non-Graduate,Salaried,1888472,1110899,180,581,No,Rural,Punjab,Business,Rejected,Yes,7.38,13003.69
+CUST00698,59,Male,Married,Graduate,Self-Employed,469708,947767,84,741,No,Urban,Tamil Nadu,Car,Approved,No,11.24,20160.36
+CUST00699,29,Female,Single,Graduate,Self-Employed,1931281,1210932,60,519,Yes,Urban,Delhi,Car,Approved,Yes,10.58,30858.58
+CUST00700,41,Female,Single,Non-Graduate,Self-Employed,838112,685232,12,701,No,Urban,Gujarat,Car,Approved,No,9.79,62693.02
+CUST00701,32,Female,Single,Non-Graduate,Self-Employed,1211727,254451,48,724,Yes,Semiurban,Karnataka,Home,Approved,No,11.06,7646.25
+CUST00702,49,Male,Married,Graduate,Self-Employed,454444,1377176,36,813,No,Urban,Tamil Nadu,Education,Approved,No,10.46,50259.27
+CUST00703,53,Female,Single,Graduate,Salaried,803561,605655,12,631,Yes,Urban,Punjab,Home,Approved,No,10.89,55967.57
+CUST00704,35,Female,Single,Non-Graduate,Salaried,1061291,1153200,60,616,No,Semiurban,Delhi,Business,Rejected,No,15.81,34413.41
+CUST00705,22,Female,Single,Graduate,Self-Employed,411837,453322,84,540,Yes,Semiurban,Uttar Pradesh,Education,Rejected,No,7.8,8343.28
+CUST00706,59,Female,Single,Graduate,Self-Employed,310017,1333141,24,651,Yes,Urban,Karnataka,Car,Rejected,No,15.3,72545.09
+CUST00707,38,Male,Married,Non-Graduate,Salaried,323618,118008,36,795,No,Urban,Gujarat,Education,Approved,No,11.32,4391.21
+CUST00708,23,Female,Married,Non-Graduate,Self-Employed,659297,427539,84,468,No,Semiurban,Delhi,Business,Approved,No,12.61,9582.47
+CUST00709,27,Female,Married,Non-Graduate,Salaried,1373917,166492,48,488,Yes,Rural,Punjab,Home,Approved,No,14.47,5476.2
+CUST00710,38,Male,Married,Graduate,Self-Employed,1220154,122240,240,575,No,Semiurban,Delhi,Home,Rejected,No,10.24,1552.45
+CUST00711,58,Male,Single,Non-Graduate,Self-Employed,1015862,1425035,60,622,Yes,Rural,Rajasthan,Car,Approved,Yes,10.87,36659.03
+CUST00712,57,Female,Married,Non-Graduate,Salaried,1979468,1036753,48,590,No,Urban,Karnataka,Home,Rejected,No,10.69,30834.76
+CUST00713,53,Male,Single,Graduate,Self-Employed,752076,775947,24,691,No,Urban,Delhi,Home,Approved,No,10.37,39036.6
+CUST00714,51,Female,Married,Graduate,Salaried,950865,322900,84,669,Yes,Rural,Maharashtra,Business,Approved,No,15.33,7969.1
+CUST00715,31,Male,Married,Non-Graduate,Salaried,641759,511227,360,575,Yes,Semiurban,Uttar Pradesh,Education,Approved,No,14.46,7580.36
+CUST00716,24,Male,Married,Non-Graduate,Salaried,1082554,1397098,24,507,No,Urban,Rajasthan,Home,Approved,Yes,7.98,67503.12
+CUST00717,38,Female,Single,Graduate,Self-Employed,1812838,185327,120,597,No,Rural,Rajasthan,Business,Approved,No,7.97,2775.27
+CUST00718,24,Male,Married,Graduate,Salaried,1093741,699991,36,766,No,Semiurban,Delhi,Business,Approved,No,10.85,25773.28
+CUST00719,54,Female,Married,Non-Graduate,Salaried,740659,892981,240,832,No,Rural,Uttar Pradesh,Car,Approved,Yes,7.89,9592.1
+CUST00720,49,Male,Married,Non-Graduate,Self-Employed,622845,215575,60,810,No,Semiurban,Rajasthan,Business,Approved,No,12.57,5851.06
+CUST00721,44,Female,Single,Graduate,Self-Employed,906544,1958802,180,450,Yes,Semiurban,Tamil Nadu,Car,Approved,No,8.29,24414.29
+CUST00722,42,Male,Married,Non-Graduate,Self-Employed,524060,1093445,84,836,No,Semiurban,Karnataka,Home,Approved,Yes,11.7,23678.29
+CUST00723,22,Male,Married,Graduate,Self-Employed,1846836,1598075,360,797,No,Semiurban,Tamil Nadu,Car,Approved,No,7.06,13841.11
+CUST00724,26,Male,Single,Non-Graduate,Self-Employed,1441835,543948,180,639,Yes,Rural,Gujarat,Business,Approved,No,9.85,7486.84
+CUST00725,45,Male,Single,Graduate,Self-Employed,475128,1405833,36,640,Yes,Rural,Tamil Nadu,Education,Approved,No,13.09,54386.21
+CUST00726,41,Male,Married,Graduate,Salaried,1019471,1696933,36,818,Yes,Rural,Uttar Pradesh,Education,Approved,No,11.36,63201.33
+CUST00727,36,Female,Married,Non-Graduate,Self-Employed,809719,279189,60,761,No,Rural,Maharashtra,Home,Approved,No,15.8,8329.14
+CUST00728,51,Male,Married,Non-Graduate,Salaried,1070123,448465,360,566,Yes,Rural,Rajasthan,Home,Approved,No,14.87,6802.96
+CUST00729,34,Female,Single,Graduate,Self-Employed,1045038,301051,36,583,Yes,Semiurban,Uttar Pradesh,Education,Rejected,Yes,10.23,10928.99
+CUST00730,59,Female,Single,Non-Graduate,Salaried,1652408,986705,180,507,Yes,Urban,Rajasthan,Car,Rejected,No,7.41,11574.6
+CUST00731,48,Female,Single,Non-Graduate,Salaried,1089097,699829,360,493,Yes,Urban,Punjab,Home,Approved,No,14.61,10464.39
+CUST00732,52,Male,Married,Non-Graduate,Self-Employed,1878237,763936,180,622,No,Rural,Maharashtra,Business,Approved,No,15.2,13920.61
+CUST00733,48,Female,Single,Graduate,Self-Employed,1429720,1610354,24,609,No,Rural,Rajasthan,Home,Rejected,No,14.39,86408.91
+CUST00734,29,Male,Married,Non-Graduate,Salaried,450195,830641,48,622,No,Urban,Tamil Nadu,Car,Approved,No,8.15,22946.46
+CUST00735,42,Female,Single,Non-Graduate,Self-Employed,1392324,321830,360,766,Yes,Semiurban,Punjab,Home,Approved,No,15.98,5179.68
+CUST00736,52,Female,Single,Graduate,Self-Employed,1652608,1604205,12,752,Yes,Rural,Punjab,Business,Approved,No,9.33,146156.44
+CUST00737,25,Female,Single,Non-Graduate,Salaried,232733,365507,48,598,Yes,Semiurban,Gujarat,Business,Approved,No,13.52,11732.77
+CUST00738,43,Female,Married,Non-Graduate,Salaried,1989616,409687,48,529,Yes,Urban,Punjab,Business,Approved,No,15.17,13714.27
+CUST00739,25,Female,Married,Graduate,Salaried,726338,1754597,360,823,Yes,Urban,Punjab,Car,Approved,No,9.12,18208.82
+CUST00740,52,Male,Married,Graduate,Self-Employed,309996,1274491,240,662,Yes,Rural,Delhi,Car,Approved,No,15.17,21422.07
+CUST00741,30,Female,Married,Non-Graduate,Self-Employed,758221,1718537,36,652,No,Semiurban,Maharashtra,Business,Approved,No,9.79,61757.54
+CUST00742,59,Female,Single,Non-Graduate,Self-Employed,749239,504179,24,701,No,Rural,Tamil Nadu,Business,Approved,No,15.79,27641.61
+CUST00743,35,Male,Married,Graduate,Self-Employed,756701,1080596,240,678,Yes,Urban,Uttar Pradesh,Car,Approved,No,9.53,13084.22
+CUST00744,27,Male,Single,Graduate,Salaried,1414449,92828,240,613,No,Semiurban,Tamil Nadu,Car,Rejected,No,15.58,1592
+CUST00745,49,Male,Married,Non-Graduate,Self-Employed,1959555,885036,12,676,Yes,Rural,Tamil Nadu,Car,Approved,No,7.48,79269.72
+CUST00746,23,Female,Married,Non-Graduate,Salaried,1150417,322670,84,596,Yes,Rural,Delhi,Education,Approved,Yes,13.38,7439.08
+CUST00747,39,Female,Single,Non-Graduate,Self-Employed,1099005,1953918,360,469,No,Rural,Karnataka,Car,Approved,Yes,11.79,24624.79
+CUST00748,30,Female,Single,Graduate,Self-Employed,1236580,1124168,180,496,Yes,Urban,Rajasthan,Business,Approved,No,11.3,16831.29
+CUST00749,48,Female,Married,Non-Graduate,Salaried,633816,341126,36,682,No,Rural,Rajasthan,Education,Approved,No,9.01,12037.01
+CUST00750,49,Female,Married,Graduate,Self-Employed,1961711,836639,240,754,Yes,Semiurban,Uttar Pradesh,Car,Approved,No,13.35,12793.6
+CUST00751,35,Female,Single,Graduate,Self-Employed,1470464,1330617,24,463,Yes,Rural,Punjab,Business,Rejected,Yes,8.72,65111.53
+CUST00752,55,Male,Single,Graduate,Salaried,985332,1449453,84,592,No,Urban,Gujarat,Home,Rejected,Yes,11.98,31725.77
+CUST00753,26,Male,Single,Non-Graduate,Self-Employed,1994029,804296,12,450,Yes,Rural,Uttar Pradesh,Education,Rejected,Yes,9.28,73244.56
+CUST00754,32,Female,Single,Non-Graduate,Salaried,967950,174982,120,822,Yes,Urban,Karnataka,Business,Approved,No,15.6,3732.95
+CUST00755,58,Female,Single,Non-Graduate,Salaried,366472,1355487,36,503,Yes,Urban,Rajasthan,Home,Approved,Yes,7.26,45853.11
+CUST00756,33,Female,Married,Graduate,Salaried,597710,1167195,120,823,No,Semiurban,Gujarat,Business,Approved,No,8.8,18286.06
+CUST00757,49,Female,Married,Non-Graduate,Salaried,411760,1783264,48,708,Yes,Semiurban,Uttar Pradesh,Car,Approved,No,9.18,50793.3
+CUST00758,39,Female,Married,Graduate,Self-Employed,322744,358623,240,593,Yes,Rural,Gujarat,Car,Approved,No,10.73,4700.95
+CUST00759,23,Male,Married,Graduate,Self-Employed,1978627,1600219,60,461,Yes,Urban,Tamil Nadu,Home,Rejected,Yes,9.09,38791.98
+CUST00760,28,Male,Single,Graduate,Self-Employed,1750522,1249751,36,779,No,Urban,Maharashtra,Car,Approved,No,11.42,46608.77
+CUST00761,28,Female,Single,Graduate,Salaried,1291577,220963,180,673,No,Semiurban,Tamil Nadu,Business,Approved,No,14.85,3961.99
+CUST00762,40,Male,Single,Graduate,Self-Employed,791652,1240402,84,721,No,Semiurban,Delhi,Home,Approved,No,13.41,28628.18
+CUST00763,24,Female,Married,Graduate,Self-Employed,1111420,1853919,24,807,No,Rural,Punjab,Business,Approved,No,12.22,96125.7
+CUST00764,41,Female,Single,Non-Graduate,Self-Employed,1031460,917869,36,605,No,Urban,Rajasthan,Business,Rejected,No,7.8,31462.51
+CUST00765,23,Female,Single,Graduate,Self-Employed,438506,1197116,180,822,Yes,Semiurban,Gujarat,Business,Approved,No,13.25,19868.8
+CUST00766,28,Male,Married,Non-Graduate,Salaried,953019,909414,360,457,No,Rural,Uttar Pradesh,Car,Approved,No,8.5,8967.83
+CUST00767,43,Male,Married,Graduate,Salaried,630789,1725611,120,571,No,Urban,Punjab,Car,Approved,No,14.08,34627.26
+CUST00768,36,Female,Married,Non-Graduate,Self-Employed,1904742,236994,360,797,Yes,Urban,Maharashtra,Business,Approved,No,9.25,2485.15
+CUST00769,33,Male,Single,Non-Graduate,Salaried,1110775,360375,84,613,No,Semiurban,Uttar Pradesh,Education,Rejected,No,10.75,7518.54
+CUST00770,23,Male,Single,Non-Graduate,Self-Employed,1960574,79301,12,539,Yes,Rural,Rajasthan,Business,Rejected,Yes,10.15,7279.17
+CUST00771,29,Female,Married,Non-Graduate,Self-Employed,1901165,1321300,240,585,No,Semiurban,Gujarat,Business,Rejected,No,14.73,21724.37
+CUST00772,34,Male,Married,Graduate,Self-Employed,1112727,1612579,36,635,Yes,Rural,Gujarat,Home,Approved,Yes,8.14,55732.52
+CUST00773,33,Male,Single,Graduate,Salaried,699722,1094327,60,765,Yes,Urban,Tamil Nadu,Business,Approved,Yes,12.09,29264.13
+CUST00774,27,Female,Married,Graduate,Self-Employed,1933693,243783,120,627,No,Rural,Maharashtra,Car,Approved,Yes,8.28,3713.63
+CUST00775,35,Female,Single,Graduate,Salaried,758924,1795259,120,477,No,Rural,Maharashtra,Home,Rejected,Yes,13.34,34917.79
+CUST00776,27,Male,Married,Non-Graduate,Salaried,1984033,68752,36,669,Yes,Rural,Rajasthan,Education,Approved,No,15.15,2777.77
+CUST00777,58,Female,Married,Non-Graduate,Self-Employed,379352,1065416,48,806,Yes,Rural,Gujarat,Home,Approved,Yes,10.91,31882.57
+CUST00778,54,Male,Married,Non-Graduate,Salaried,1010694,787565,360,490,Yes,Rural,Punjab,Education,Rejected,Yes,11.39,9662.99
+CUST00779,42,Female,Single,Graduate,Salaried,393283,1983460,120,677,Yes,Semiurban,Maharashtra,Home,Approved,No,15.35,41900.59
+CUST00780,44,Female,Single,Non-Graduate,Self-Employed,1172346,718755,180,641,Yes,Rural,Maharashtra,Home,Approved,No,11.69,10994.95
+CUST00781,57,Female,Married,Graduate,Salaried,1115015,267029,24,594,Yes,Rural,Uttar Pradesh,Education,Rejected,No,11.39,13660.76
+CUST00782,21,Female,Single,Non-Graduate,Salaried,1698771,957669,240,650,Yes,Urban,Rajasthan,Car,Approved,No,12.2,13726.59
+CUST00783,30,Male,Married,Non-Graduate,Self-Employed,1198974,1154849,120,661,No,Rural,Tamil Nadu,Car,Approved,No,13.2,22327.08
+CUST00784,36,Female,Married,Non-Graduate,Self-Employed,631413,1357079,180,669,Yes,Urban,Uttar Pradesh,Car,Approved,Yes,7.96,16541.29
+CUST00785,28,Female,Single,Non-Graduate,Salaried,1552564,1714742,84,689,No,Semiurban,Uttar Pradesh,Home,Approved,No,14.39,40976.21
+CUST00786,45,Female,Single,Non-Graduate,Self-Employed,526898,1889903,84,846,No,Semiurban,Karnataka,Business,Approved,No,10.92,39696.96
+CUST00787,32,Male,Single,Graduate,Self-Employed,1151661,1218544,240,495,Yes,Rural,Delhi,Home,Rejected,Yes,7.65,12845.48
+CUST00788,45,Male,Single,Non-Graduate,Salaried,1063561,427844,48,484,Yes,Semiurban,Karnataka,Business,Approved,No,14.08,13933.45
+CUST00789,37,Female,Married,Graduate,Salaried,502186,1699423,60,702,No,Rural,Maharashtra,Business,Approved,Yes,10.39,43037.89
+CUST00790,46,Female,Single,Graduate,Self-Employed,1310241,60699,240,839,Yes,Semiurban,Gujarat,Car,Approved,No,7.9,652.51
+CUST00791,34,Female,Single,Graduate,Salaried,1495160,1294709,12,531,Yes,Rural,Delhi,Business,Rejected,No,12.7,121594.75
+CUST00792,56,Female,Married,Graduate,Self-Employed,1365529,584003,48,820,No,Rural,Delhi,Home,Approved,No,14.92,19427.83
+CUST00793,43,Female,Married,Graduate,Self-Employed,676072,1117745,120,705,No,Urban,Gujarat,Home,Approved,No,14.99,23277.04
+CUST00794,26,Female,Married,Graduate,Salaried,1931312,568652,240,646,No,Urban,Delhi,Car,Approved,No,15.62,9771.34
+CUST00795,25,Male,Married,Graduate,Salaried,1226553,168413,360,752,Yes,Urban,Gujarat,Education,Approved,Yes,14.81,2546.31
+CUST00796,45,Female,Single,Graduate,Self-Employed,1435202,1742128,84,459,Yes,Urban,Delhi,Home,Rejected,Yes,7.02,30931.07
+CUST00797,38,Female,Single,Non-Graduate,Self-Employed,345271,1366502,180,761,No,Rural,Uttar Pradesh,Business,Rejected,No,10.42,19457.47
+CUST00798,33,Female,Married,Non-Graduate,Self-Employed,318533,1842113,240,735,Yes,Semiurban,Punjab,Home,Approved,No,14.37,29734.77
+CUST00799,34,Female,Married,Graduate,Self-Employed,1168452,1621564,360,691,No,Rural,Rajasthan,Home,Approved,Yes,10.3,18422.77
+CUST00800,48,Female,Single,Graduate,Salaried,1846645,1223057,48,700,Yes,Urban,Rajasthan,Home,Approved,No,12.41,38128.8
+CUST00801,38,Female,Single,Graduate,Self-Employed,1714542,265400,12,814,No,Urban,Karnataka,Education,Approved,No,12.46,24872.4
+CUST00802,48,Male,Single,Non-Graduate,Salaried,266262,1082532,180,454,Yes,Semiurban,Uttar Pradesh,Business,Approved,No,10.29,15296.78
+CUST00803,47,Male,Single,Non-Graduate,Salaried,1033032,609873,24,568,No,Urban,Delhi,Car,Rejected,Yes,15.14,33105.94
+CUST00804,52,Male,Single,Graduate,Self-Employed,276898,1915690,12,738,Yes,Rural,Tamil Nadu,Home,Rejected,No,11.53,178047.42
+CUST00805,29,Male,Married,Graduate,Salaried,655699,1277512,120,823,Yes,Rural,Gujarat,Business,Approved,No,11.18,22548.09
+CUST00806,60,Male,Married,Non-Graduate,Salaried,1397945,442136,360,514,No,Rural,Uttar Pradesh,Business,Rejected,Yes,15.98,7115.93
+CUST00807,52,Male,Married,Non-Graduate,Self-Employed,754736,1969424,240,595,Yes,Rural,Delhi,Car,Approved,No,11.44,26981.11
+CUST00808,40,Female,Married,Graduate,Salaried,488316,1546906,240,673,Yes,Rural,Rajasthan,Home,Approved,No,8.61,17544.49
+CUST00809,48,Female,Single,Graduate,Salaried,1256233,439954,36,688,No,Semiurban,Rajasthan,Education,Approved,No,11.62,16481.17
+CUST00810,53,Female,Married,Graduate,Self-Employed,677602,88067,84,626,Yes,Rural,Gujarat,Business,Approved,Yes,14.33,2100.08
+CUST00811,24,Female,Single,Graduate,Self-Employed,1144189,1796621,120,716,Yes,Urban,Tamil Nadu,Car,Approved,No,13.99,35917.45
+CUST00812,54,Female,Single,Non-Graduate,Self-Employed,1239504,1876198,360,790,Yes,Urban,Delhi,Education,Approved,Yes,14.1,27256.99
+CUST00813,23,Female,Single,Non-Graduate,Self-Employed,574999,68073,240,731,No,Urban,Delhi,Business,Approved,No,13.37,1042.08
+CUST00814,46,Male,Single,Graduate,Self-Employed,1932767,86035,24,512,No,Urban,Tamil Nadu,Home,Approved,No,9.29,4250.85
+CUST00815,28,Female,Single,Graduate,Self-Employed,207906,1294625,180,666,No,Semiurban,Tamil Nadu,Business,Approved,No,14.76,23116.25
+CUST00816,26,Male,Single,Graduate,Self-Employed,1572133,283782,120,791,No,Urban,Tamil Nadu,Education,Approved,No,15.04,5921.58
+CUST00817,36,Male,Single,Non-Graduate,Salaried,1826892,664661,48,764,No,Semiurban,Rajasthan,Education,Approved,Yes,8.75,18693.59
+CUST00818,44,Female,Married,Graduate,Salaried,993719,1968370,24,732,Yes,Urban,Gujarat,Home,Approved,No,8.17,95416.74
+CUST00819,59,Female,Single,Graduate,Self-Employed,1544380,664805,180,626,Yes,Semiurban,Uttar Pradesh,Home,Approved,No,15.78,12435.55
+CUST00820,50,Female,Married,Graduate,Salaried,1717550,1688314,60,547,No,Semiurban,Punjab,Car,Approved,No,14.81,48975.18
+CUST00821,33,Female,Married,Non-Graduate,Salaried,1046936,1633246,84,554,Yes,Semiurban,Tamil Nadu,Home,Approved,Yes,15.04,39913.42
+CUST00822,25,Female,Single,Graduate,Self-Employed,915080,776331,120,548,Yes,Urban,Gujarat,Car,Approved,No,14.98,16160.62
+CUST00823,45,Female,Single,Non-Graduate,Salaried,1875843,1556404,360,834,Yes,Semiurban,Karnataka,Education,Approved,No,11.88,19731.74
+CUST00824,40,Female,Married,Graduate,Self-Employed,234701,1844291,12,760,Yes,Rural,Delhi,Education,Approved,No,12.82,173394.09
+CUST00825,38,Male,Married,Graduate,Salaried,1331876,111929,180,455,No,Rural,Delhi,Business,Rejected,No,11.91,1732.72
+CUST00826,38,Female,Married,Graduate,Self-Employed,965537,807771,48,646,No,Urban,Punjab,Business,Approved,No,7.46,21850.21
+CUST00827,22,Female,Married,Non-Graduate,Salaried,1921610,1851454,240,800,Yes,Rural,Punjab,Car,Approved,No,13.71,28867.25
+CUST00828,30,Male,Single,Graduate,Salaried,283560,935296,12,582,Yes,Rural,Maharashtra,Home,Approved,No,11.55,86943.56
+CUST00829,32,Female,Single,Graduate,Salaried,442615,717689,24,807,No,Rural,Karnataka,Home,Approved,No,12.83,37577
+CUST00830,33,Female,Single,Non-Graduate,Self-Employed,243642,830965,84,708,Yes,Urban,Uttar Pradesh,Business,Approved,No,11.52,17869.7
+CUST00831,31,Male,Married,Non-Graduate,Salaried,717083,337313,360,472,Yes,Urban,Punjab,Education,Approved,Yes,11.43,4149.89
+CUST00832,39,Female,Single,Non-Graduate,Salaried,691036,137468,12,502,Yes,Rural,Tamil Nadu,Car,Approved,Yes,8.55,12435.13
+CUST00833,55,Female,Married,Graduate,Self-Employed,527304,1133170,48,614,No,Urban,Tamil Nadu,Education,Approved,No,9.51,32588.08
+CUST00834,59,Female,Single,Non-Graduate,Self-Employed,565464,241703,180,651,No,Semiurban,Uttar Pradesh,Education,Approved,Yes,8.43,3040.76
+CUST00835,46,Female,Married,Graduate,Salaried,813089,1143609,360,532,Yes,Rural,Rajasthan,Home,Approved,No,8.76,11525.04
+CUST00836,34,Female,Single,Non-Graduate,Salaried,1536651,1685997,60,594,Yes,Urban,Karnataka,Car,Rejected,No,15.76,50242.71
+CUST00837,44,Female,Single,Non-Graduate,Salaried,1342953,1040669,240,534,Yes,Urban,Tamil Nadu,Education,Approved,No,8.38,11603.46
+CUST00838,21,Male,Married,Non-Graduate,Salaried,526916,1172437,84,527,Yes,Rural,Punjab,Business,Approved,Yes,9.42,23161.21
+CUST00839,42,Female,Married,Graduate,Self-Employed,1700554,757650,12,815,Yes,Urban,Maharashtra,Business,Approved,No,12.32,70916.04
+CUST00840,43,Female,Married,Graduate,Salaried,512250,343894,84,450,Yes,Rural,Gujarat,Home,Rejected,No,12.49,7673.34
+CUST00841,39,Male,Married,Graduate,Salaried,805409,1663325,84,500,No,Urban,Delhi,Business,Rejected,No,8.39,31430.9
+CUST00842,38,Male,Married,Graduate,Self-Employed,1274135,1565592,84,622,No,Semiurban,Karnataka,Business,Approved,No,14.14,37085.89
+CUST00843,32,Female,Single,Graduate,Salaried,1092027,1176798,180,654,Yes,Rural,Delhi,Education,Approved,No,14.07,20335.72
+CUST00844,48,Male,Married,Graduate,Salaried,758030,686308,84,709,No,Semiurban,Gujarat,Business,Approved,No,9.14,13397.71
+CUST00845,48,Female,Single,Graduate,Salaried,1056101,1909234,60,818,Yes,Rural,Karnataka,Business,Approved,No,9.6,47094.44
+CUST00846,53,Female,Single,Graduate,Self-Employed,1925690,843153,24,737,Yes,Urban,Punjab,Education,Approved,No,15.44,45979.94
+CUST00847,39,Male,Single,Graduate,Self-Employed,1383620,594897,48,483,No,Semiurban,Gujarat,Home,Approved,No,14.43,19547.32
+CUST00848,48,Female,Single,Non-Graduate,Salaried,1360793,1753377,360,797,No,Urban,Tamil Nadu,Home,Approved,No,13.28,24274.53
+CUST00849,57,Female,Single,Non-Graduate,Salaried,1814737,1302557,60,544,Yes,Rural,Uttar Pradesh,Car,Approved,No,7.74,30110.78
+CUST00850,46,Male,Married,Graduate,Self-Employed,1092964,154211,360,521,Yes,Rural,Tamil Nadu,Business,Approved,No,10.76,1811.12
+CUST00851,55,Male,Married,Graduate,Salaried,603119,1284897,48,488,No,Rural,Punjab,Education,Rejected,No,12.03,39649.78
+CUST00852,54,Male,Single,Graduate,Salaried,858380,1540687,24,603,No,Rural,Uttar Pradesh,Car,Approved,No,8.69,75352.43
+CUST00853,55,Male,Single,Graduate,Self-Employed,1335564,537689,120,699,Yes,Rural,Tamil Nadu,Home,Approved,No,11.03,9423
+CUST00854,60,Female,Married,Non-Graduate,Self-Employed,769936,973160,360,611,Yes,Semiurban,Gujarat,Home,Approved,Yes,12.41,12767.32
+CUST00855,36,Male,Married,Non-Graduate,Self-Employed,325991,910952,360,567,Yes,Rural,Gujarat,Education,Approved,No,9.95,10083.73
+CUST00856,58,Male,Single,Graduate,Salaried,602732,1555532,24,708,No,Urban,Gujarat,Car,Approved,No,14.03,83000.59
+CUST00857,33,Male,Married,Non-Graduate,Salaried,706079,900741,12,828,Yes,Semiurban,Delhi,Car,Approved,No,14.56,85990.74
+CUST00858,43,Male,Married,Non-Graduate,Salaried,726684,1128560,60,755,No,Urban,Punjab,Education,Approved,No,9.91,28129.36
+CUST00859,42,Male,Married,Graduate,Salaried,1332658,1741811,12,717,Yes,Rural,Gujarat,Education,Approved,No,14.55,166270.38
+CUST00860,36,Female,Single,Graduate,Self-Employed,328322,1827758,12,503,No,Urban,Tamil Nadu,Car,Approved,No,7.93,164391.6
+CUST00861,48,Male,Married,Graduate,Salaried,856951,1104477,12,685,No,Semiurban,Maharashtra,Home,Approved,No,14.54,105422.33
+CUST00862,55,Female,Single,Graduate,Salaried,211303,212624,84,838,No,Semiurban,Punjab,Business,Rejected,No,8.37,4014.29
+CUST00863,28,Male,Single,Non-Graduate,Self-Employed,1410209,1320893,240,671,No,Semiurban,Gujarat,Home,Approved,No,7.75,14034.49
+CUST00864,42,Male,Single,Graduate,Self-Employed,1582439,1391775,360,700,Yes,Urban,Maharashtra,Education,Approved,No,12.78,18688.45
+CUST00865,41,Male,Single,Non-Graduate,Salaried,1498266,743045,12,762,No,Semiurban,Uttar Pradesh,Car,Approved,No,11.25,68886.46
+CUST00866,46,Male,Single,Graduate,Self-Employed,1209612,1041469,60,850,No,Urban,Tamil Nadu,Car,Approved,No,15.17,30523.72
+CUST00867,60,Male,Married,Non-Graduate,Self-Employed,299616,195788,240,561,No,Rural,Gujarat,Business,Approved,Yes,10.27,2491.4
+CUST00868,41,Male,Single,Graduate,Salaried,1110597,688387,240,704,Yes,Rural,Delhi,Car,Approved,Yes,9.58,8363.9
+CUST00869,45,Male,Single,Graduate,Salaried,1334807,585426,12,752,Yes,Urban,Delhi,Business,Approved,No,11.51,54400.71
+CUST00870,21,Male,Single,Non-Graduate,Salaried,469458,740658,180,656,Yes,Semiurban,Uttar Pradesh,Home,Approved,No,11.1,10965.85
+CUST00871,26,Female,Married,Non-Graduate,Salaried,1268199,1018616,12,678,Yes,Urban,Maharashtra,Home,Approved,No,10.1,93458.02
+CUST00872,43,Male,Married,Non-Graduate,Self-Employed,923035,73429,180,790,Yes,Urban,Rajasthan,Car,Approved,No,13.24,1218.11
+CUST00873,43,Female,Married,Graduate,Self-Employed,690042,1673064,12,847,Yes,Urban,Delhi,Car,Approved,No,13.84,158718
+CUST00874,43,Male,Married,Non-Graduate,Salaried,658298,1300956,60,515,No,Rural,Punjab,Education,Rejected,Yes,14.68,37597.63
+CUST00875,52,Female,Married,Non-Graduate,Salaried,1247343,1540036,180,524,No,Urban,Delhi,Education,Rejected,No,15.76,28781.56
+CUST00876,50,Male,Married,Non-Graduate,Self-Employed,1725416,822577,84,552,No,Rural,Delhi,Car,Rejected,Yes,9.4,16236.1
+CUST00877,33,Male,Married,Non-Graduate,Salaried,305228,1343703,240,641,Yes,Urban,Tamil Nadu,Car,Approved,No,13.44,20648.24
+CUST00878,38,Male,Single,Non-Graduate,Salaried,626346,937700,12,701,No,Rural,Delhi,Home,Approved,No,10.55,86385.61
+CUST00879,43,Female,Single,Non-Graduate,Salaried,1955692,1859377,240,675,No,Urban,Karnataka,Car,Approved,No,13.09,28030.11
+CUST00880,35,Female,Married,Non-Graduate,Salaried,1084056,1115923,12,743,Yes,Urban,Gujarat,Education,Approved,No,11.28,103483.26
+CUST00881,53,Female,Single,Non-Graduate,Self-Employed,1930228,1770856,360,755,No,Semiurban,Uttar Pradesh,Home,Approved,No,15.94,28441.91
+CUST00882,41,Female,Single,Non-Graduate,Salaried,1769123,606110,360,547,Yes,Semiurban,Delhi,Business,Approved,No,13.56,8532.68
+CUST00883,59,Male,Married,Graduate,Self-Employed,1317850,1014163,36,787,No,Urban,Rajasthan,Education,Approved,No,15.57,41329.96
+CUST00884,43,Male,Single,Graduate,Salaried,1382117,1662972,12,735,Yes,Urban,Punjab,Education,Approved,No,14.51,158689.1
+CUST00885,47,Male,Single,Non-Graduate,Salaried,1302523,965387,36,784,Yes,Urban,Rajasthan,Home,Approved,No,15.13,38988.23
+CUST00886,38,Female,Married,Graduate,Self-Employed,1926470,1580891,24,796,Yes,Urban,Delhi,Business,Approved,No,14.33,84748.93
+CUST00887,44,Male,Single,Graduate,Salaried,1443268,57967,24,757,No,Semiurban,Delhi,Education,Approved,No,11.13,2952.94
+CUST00888,60,Female,Married,Non-Graduate,Self-Employed,248874,1995727,240,698,No,Rural,Karnataka,Car,Approved,No,9.27,23732.52
+CUST00889,27,Female,Married,Non-Graduate,Salaried,1822572,1634735,180,615,Yes,Urban,Delhi,Education,Approved,No,10.33,23154.2
+CUST00890,40,Female,Single,Non-Graduate,Salaried,1323129,275371,12,784,Yes,Semiurban,Delhi,Home,Approved,No,7.18,24595.22
+CUST00891,47,Female,Single,Non-Graduate,Salaried,792632,1307100,48,479,No,Urban,Gujarat,Home,Rejected,No,11.72,39997.26
+CUST00892,26,Female,Single,Non-Graduate,Salaried,909662,1828206,12,696,No,Urban,Rajasthan,Home,Approved,No,11.55,169946.98
+CUST00893,47,Male,Married,Non-Graduate,Salaried,771926,1263261,12,555,Yes,Rural,Karnataka,Education,Approved,Yes,11.73,117620.13
+CUST00894,29,Female,Married,Graduate,Self-Employed,1326825,602467,48,500,No,Urban,Rajasthan,Business,Approved,No,15.77,20468.82
+CUST00895,51,Female,Married,Non-Graduate,Self-Employed,727007,301537,24,530,No,Urban,Karnataka,Car,Approved,Yes,15.2,16383.51
+CUST00896,41,Male,Single,Graduate,Salaried,878250,1806124,36,582,No,Rural,Rajasthan,Home,Rejected,No,8.46,62903.29
+CUST00897,46,Female,Single,Non-Graduate,Salaried,670452,891531,240,734,Yes,Rural,Delhi,Business,Approved,No,10.32,11381.88
+CUST00898,60,Female,Married,Non-Graduate,Self-Employed,1678301,1658126,24,837,Yes,Rural,Rajasthan,Car,Approved,No,10.82,84039.35
+CUST00899,33,Male,Single,Graduate,Self-Employed,242534,914645,48,587,No,Rural,Rajasthan,Home,Approved,No,10.24,26860.07
+CUST00900,43,Male,Single,Non-Graduate,Salaried,695518,1478127,12,633,Yes,Semiurban,Karnataka,Car,Approved,No,14.19,140656.1
+CUST00901,40,Male,Married,Non-Graduate,Salaried,816529,985772,24,850,No,Semiurban,Uttar Pradesh,Car,Approved,No,11.72,50701.54
+CUST00902,57,Female,Married,Graduate,Self-Employed,612003,521082,60,779,No,Semiurban,Maharashtra,Business,Approved,No,12.15,13960.66
+CUST00903,48,Male,Single,Non-Graduate,Salaried,326209,1971277,360,722,Yes,Urban,Karnataka,Car,Approved,No,14.68,29591.06
+CUST00904,37,Male,Married,Graduate,Self-Employed,642061,110545,12,789,Yes,Rural,Karnataka,Home,Approved,No,14.25,10524.81
+CUST00905,48,Male,Single,Non-Graduate,Salaried,1437580,1333131,120,518,Yes,Rural,Karnataka,Business,Approved,Yes,8.19,20208.04
+CUST00906,22,Female,Married,Non-Graduate,Self-Employed,816412,273894,48,483,No,Semiurban,Tamil Nadu,Education,Approved,No,13.43,8771.46
+CUST00907,45,Male,Married,Graduate,Self-Employed,1864523,777506,84,711,No,Urban,Uttar Pradesh,Education,Approved,No,10.92,16331.33
+CUST00908,26,Female,Married,Non-Graduate,Salaried,364134,1039470,180,502,Yes,Urban,Tamil Nadu,Business,Approved,Yes,9.65,14133.9
+CUST00909,31,Female,Single,Graduate,Self-Employed,1324289,1400642,84,654,Yes,Urban,Tamil Nadu,Education,Approved,No,7.45,25369.96
+CUST00910,58,Male,Single,Graduate,Salaried,1991199,1665777,24,575,Yes,Semiurban,Karnataka,Car,Rejected,No,11.39,85218.38
+CUST00911,26,Female,Married,Graduate,Salaried,688972,1457753,12,684,No,Urban,Maharashtra,Home,Approved,Yes,10.2,133870.32
+CUST00912,31,Female,Married,Non-Graduate,Salaried,1177965,1465512,180,492,No,Urban,Karnataka,Car,Approved,No,9.26,19450.6
+CUST00913,34,Male,Married,Non-Graduate,Salaried,1323994,300497,180,689,No,Urban,Delhi,Business,Approved,No,13.25,4987.42
+CUST00914,22,Female,Single,Graduate,Self-Employed,1184176,1023181,240,820,Yes,Rural,Maharashtra,Home,Approved,No,13.93,16140.68
+CUST00915,60,Male,Married,Non-Graduate,Salaried,1376808,1069658,84,560,Yes,Semiurban,Tamil Nadu,Business,Rejected,Yes,9.2,20934.74
+CUST00916,23,Female,Married,Non-Graduate,Salaried,720551,1541633,12,698,No,Rural,Punjab,Business,Approved,Yes,7.45,138040.39
+CUST00917,55,Female,Married,Non-Graduate,Salaried,363038,751692,240,600,Yes,Rural,Rajasthan,Business,Approved,No,14.64,12302.69
+CUST00918,53,Male,Married,Graduate,Salaried,1190049,1583854,36,632,Yes,Semiurban,Rajasthan,Car,Approved,No,7.09,53353.88
+CUST00919,44,Male,Single,Non-Graduate,Self-Employed,1130491,956295,84,785,Yes,Rural,Uttar Pradesh,Home,Approved,No,15.43,23680.82
+CUST00920,39,Female,Single,Graduate,Salaried,1416959,1254680,360,544,Yes,Urban,Punjab,Home,Rejected,No,12.65,16711.64
+CUST00921,38,Female,Married,Non-Graduate,Self-Employed,1574572,743206,360,823,No,Urban,Gujarat,Home,Approved,No,9.9,8195.91
+CUST00922,44,Male,Single,Non-Graduate,Self-Employed,458722,1813410,240,849,Yes,Urban,Uttar Pradesh,Car,Approved,No,9.22,21488.91
+CUST00923,55,Female,Single,Graduate,Self-Employed,332079,1143512,36,457,No,Urban,Maharashtra,Education,Rejected,Yes,7.08,38510.94
+CUST00924,21,Female,Single,Non-Graduate,Salaried,402053,735154,60,837,No,Semiurban,Tamil Nadu,Car,Approved,No,9.12,17839.74
+CUST00925,56,Female,Married,Graduate,Salaried,800530,1815524,60,809,Yes,Rural,Maharashtra,Car,Approved,No,8.24,42725.33
+CUST00926,45,Female,Single,Non-Graduate,Salaried,1427165,1300632,360,837,No,Rural,Maharashtra,Business,Approved,No,12.51,17171.96
+CUST00927,54,Male,Single,Graduate,Salaried,1751814,275469,120,633,No,Urban,Rajasthan,Home,Approved,No,8.5,4246.81
+CUST00928,45,Male,Single,Non-Graduate,Self-Employed,1277833,1126717,48,730,Yes,Urban,Karnataka,Home,Approved,Yes,11.76,34515.1
+CUST00929,36,Male,Married,Non-Graduate,Self-Employed,680488,187478,48,644,No,Rural,Delhi,Education,Approved,No,12.31,5829
+CUST00930,54,Male,Married,Non-Graduate,Salaried,635423,1195935,120,801,No,Semiurban,Gujarat,Education,Approved,No,9.68,19613.33
+CUST00931,49,Male,Single,Graduate,Salaried,1392929,959711,240,644,No,Rural,Tamil Nadu,Business,Approved,No,7.32,9853.03
+CUST00932,39,Male,Single,Graduate,Salaried,523390,1252939,48,604,No,Urban,Maharashtra,Home,Rejected,No,7.34,33766.71
+CUST00933,43,Female,Married,Graduate,Salaried,463579,1664432,48,542,No,Urban,Gujarat,Education,Rejected,No,7.24,44717.74
+CUST00934,39,Male,Married,Non-Graduate,Salaried,1478523,671827,84,609,No,Semiurban,Maharashtra,Education,Rejected,No,13.65,15639.97
+CUST00935,45,Female,Single,Graduate,Salaried,1480334,1669715,84,510,No,Rural,Punjab,Home,Rejected,Yes,9.86,33597.05
+CUST00936,36,Female,Single,Graduate,Salaried,1864221,543158,120,571,No,Semiurban,Rajasthan,Car,Rejected,No,14.17,10940.11
+CUST00937,29,Female,Married,Graduate,Self-Employed,1406308,1677687,12,500,Yes,Semiurban,Delhi,Education,Rejected,No,10.89,155032.26
+CUST00938,21,Male,Married,Graduate,Self-Employed,1199701,73312,36,726,Yes,Urban,Rajasthan,Home,Approved,No,11.08,2713.36
+CUST00939,39,Female,Single,Graduate,Self-Employed,1131011,1010612,240,454,Yes,Rural,Gujarat,Education,Approved,Yes,11.62,13996.98
+CUST00940,53,Male,Married,Graduate,Self-Employed,1976531,477387,84,541,No,Urban,Tamil Nadu,Business,Approved,Yes,13.42,11021.96
+CUST00941,54,Female,Single,Graduate,Salaried,1856671,484995,84,619,No,Rural,Maharashtra,Education,Approved,Yes,9.46,9597.13
+CUST00942,36,Female,Single,Graduate,Salaried,1687331,1822764,60,766,No,Urban,Delhi,Home,Approved,No,8.09,42667.87
+CUST00943,60,Male,Single,Graduate,Salaried,338563,1599107,36,471,Yes,Urban,Punjab,Education,Rejected,No,12,60410.71
+CUST00944,38,Female,Married,Graduate,Salaried,983066,1983731,60,775,Yes,Rural,Rajasthan,Business,Approved,No,9.94,49494.09
+CUST00945,54,Female,Single,Non-Graduate,Salaried,1754623,848843,12,450,Yes,Rural,Punjab,Business,Approved,No,10.98,78503.83
+CUST00946,45,Female,Single,Non-Graduate,Self-Employed,905552,1594613,36,582,No,Urban,Gujarat,Education,Approved,No,12.82,61330.59
+CUST00947,26,Female,Married,Graduate,Salaried,526032,1347638,48,682,Yes,Rural,Rajasthan,Education,Approved,No,11.45,40934.5
+CUST00948,41,Male,Married,Non-Graduate,Self-Employed,797897,893441,60,461,Yes,Urban,Maharashtra,Business,Approved,No,12.58,24256.92
+CUST00949,26,Female,Single,Non-Graduate,Salaried,972800,1507214,360,795,No,Rural,Maharashtra,Business,Approved,No,11.9,19133.24
+CUST00950,52,Female,Single,Graduate,Self-Employed,1502549,485684,240,495,Yes,Urban,Punjab,Car,Approved,Yes,13.66,7552.39
+CUST00951,59,Male,Married,Graduate,Salaried,1531673,1655235,48,483,No,Urban,Tamil Nadu,Car,Approved,No,13.35,52898.55
+CUST00952,51,Female,Married,Graduate,Self-Employed,1625402,107022,36,527,Yes,Urban,Delhi,Business,Approved,Yes,11.81,4026.11
+CUST00953,30,Female,Married,Non-Graduate,Salaried,1762833,383373,360,667,No,Semiurban,Karnataka,Education,Approved,No,13.11,5253.28
+CUST00954,50,Female,Single,Graduate,Salaried,1927757,1197647,12,750,No,Rural,Rajasthan,Home,Approved,No,14.86,114634.78
+CUST00955,38,Female,Single,Non-Graduate,Salaried,1679359,1280844,360,522,No,Urban,Maharashtra,Education,Approved,No,10.89,15181.56
+CUST00956,44,Male,Single,Graduate,Salaried,1363950,1047858,84,731,No,Semiurban,Gujarat,Education,Approved,No,10.71,21826.63
+CUST00957,29,Female,Married,Non-Graduate,Self-Employed,749148,408918,120,698,No,Urban,Rajasthan,Car,Approved,No,13.88,8137.47
+CUST00958,51,Male,Single,Non-Graduate,Salaried,876555,539626,360,496,Yes,Semiurban,Tamil Nadu,Car,Rejected,No,12.24,7003.15
+CUST00959,35,Female,Married,Graduate,Self-Employed,801763,338859,180,570,No,Urban,Tamil Nadu,Car,Approved,No,7.64,4039.95
+CUST00960,24,Female,Single,Graduate,Salaried,684090,864037,12,663,No,Urban,Maharashtra,Business,Approved,No,15.03,82825.15
+CUST00961,60,Female,Married,Non-Graduate,Self-Employed,1073698,1722717,48,688,No,Semiurban,Maharashtra,Business,Approved,No,7.28,46341.09
+CUST00962,29,Male,Single,Non-Graduate,Salaried,876787,605462,60,505,No,Semiurban,Punjab,Education,Approved,No,13.74,17023.57
+CUST00963,29,Female,Single,Graduate,Salaried,1537803,977460,24,799,Yes,Rural,Maharashtra,Education,Approved,No,13.83,51992.73
+CUST00964,46,Female,Married,Graduate,Self-Employed,942406,1596236,12,556,No,Rural,Punjab,Home,Approved,Yes,15.58,153744.13
+CUST00965,24,Male,Married,Non-Graduate,Salaried,1043804,1174949,180,768,Yes,Semiurban,Uttar Pradesh,Education,Approved,No,7.49,13861.13
+CUST00966,37,Male,Single,Graduate,Salaried,848074,1954260,84,497,No,Rural,Karnataka,Education,Rejected,No,12.37,43410.16
+CUST00967,36,Male,Married,Non-Graduate,Self-Employed,1161568,1291597,60,510,No,Semiurban,Maharashtra,Car,Rejected,No,10.85,33204.81
+CUST00968,35,Male,Married,Graduate,Salaried,1780677,243718,240,786,Yes,Rural,Rajasthan,Car,Approved,No,9.98,3042.41
+CUST00969,55,Female,Single,Graduate,Self-Employed,1280174,644305,24,475,Yes,Urban,Rajasthan,Car,Approved,No,7.81,31039.39
+CUST00970,25,Female,Married,Graduate,Salaried,1754510,113037,360,741,Yes,Rural,Punjab,Car,Approved,No,12.06,1450.01
+CUST00971,25,Female,Single,Non-Graduate,Self-Employed,1865970,1712682,180,706,No,Urban,Uttar Pradesh,Car,Approved,Yes,11.31,25656.93
+CUST00972,40,Female,Single,Graduate,Self-Employed,489226,580836,360,457,Yes,Urban,Uttar Pradesh,Home,Rejected,No,7.94,5456.63
+CUST00973,35,Male,Married,Non-Graduate,Self-Employed,1015673,691269,240,562,No,Rural,Delhi,Home,Approved,No,12.51,10086.77
+CUST00974,38,Female,Married,Graduate,Self-Employed,427286,1332789,12,804,Yes,Semiurban,Gujarat,Home,Approved,No,13.64,126215.12
+CUST00975,22,Female,Single,Non-Graduate,Salaried,637785,254366,120,702,Yes,Urban,Maharashtra,Car,Approved,No,13.91,5068.24
+CUST00976,49,Female,Single,Non-Graduate,Salaried,1260321,552420,180,629,No,Urban,Punjab,Business,Approved,No,15.15,10043.3
+CUST00977,33,Female,Single,Graduate,Self-Employed,1012461,204249,36,656,Yes,Rural,Rajasthan,Car,Approved,No,10.69,7493.1
+CUST00978,24,Male,Single,Non-Graduate,Salaried,1392673,1384742,48,752,Yes,Semiurban,Uttar Pradesh,Car,Approved,No,15.58,46827.36
+CUST00979,30,Female,Single,Non-Graduate,Salaried,432732,1729161,36,576,No,Semiurban,Rajasthan,Home,Rejected,No,14.79,69344.16
+CUST00980,51,Female,Single,Non-Graduate,Salaried,1918224,1088199,120,505,No,Rural,Rajasthan,Car,Rejected,No,9.67,17837.4
+CUST00981,28,Female,Married,Non-Graduate,Self-Employed,813474,710902,240,663,No,Semiurban,Uttar Pradesh,Home,Approved,No,8.43,7956.18
+CUST00982,23,Male,Married,Graduate,Salaried,1124044,1320660,36,463,Yes,Rural,Karnataka,Car,Rejected,No,10.92,48703.01
+CUST00983,29,Male,Married,Graduate,Salaried,1084200,1588112,84,477,Yes,Rural,Uttar Pradesh,Education,Approved,No,10.62,32960.89
+CUST00984,50,Female,Single,Graduate,Self-Employed,413030,1159004,180,527,Yes,Rural,Uttar Pradesh,Business,Approved,No,12.18,18202.8
+CUST00985,31,Female,Married,Non-Graduate,Salaried,924238,1776676,84,665,Yes,Urban,Gujarat,Business,Approved,No,12.25,39287.81
+CUST00986,55,Female,Single,Non-Graduate,Self-Employed,1814710,1420073,24,835,Yes,Urban,Punjab,Home,Approved,No,13.75,75441.38
+CUST00987,57,Male,Single,Graduate,Self-Employed,1218652,1735996,120,814,No,Urban,Punjab,Education,Approved,No,11.59,31233.46
+CUST00988,33,Female,Married,Graduate,Self-Employed,1586652,1286180,24,603,Yes,Rural,Uttar Pradesh,Business,Approved,No,7.94,62101.06
+CUST00989,56,Female,Single,Non-Graduate,Salaried,348554,590340,24,463,No,Urban,Tamil Nadu,Home,Approved,No,14.72,31839
+CUST00990,33,Female,Single,Graduate,Salaried,485555,1199265,24,636,Yes,Urban,Punjab,Car,Approved,No,9.79,59753.38
+CUST00991,32,Male,Single,Graduate,Self-Employed,644191,752436,12,761,No,Urban,Punjab,Car,Approved,No,15.74,72572.45
+CUST00992,57,Female,Single,Non-Graduate,Self-Employed,1702337,496636,12,820,Yes,Rural,Punjab,Education,Approved,No,8.06,44722.07
+CUST00993,30,Female,Single,Graduate,Self-Employed,1754094,706031,120,456,Yes,Rural,Uttar Pradesh,Business,Rejected,No,15.62,15073.76
+CUST00994,29,Male,Single,Non-Graduate,Self-Employed,1589517,312307,60,452,No,Rural,Rajasthan,Car,Rejected,No,7.82,7240.32
+CUST00995,27,Male,Married,Graduate,Self-Employed,514451,1402144,36,560,Yes,Urban,Maharashtra,Home,Rejected,Yes,9.08,49558
+CUST00996,22,Female,Single,Non-Graduate,Self-Employed,1120597,1601330,12,687,No,Semiurban,Rajasthan,Car,Approved,No,7.42,143345.72
+CUST00997,43,Male,Single,Non-Graduate,Salaried,1532762,1021248,360,812,Yes,Urban,Gujarat,Car,Approved,No,13.35,14198.18
+CUST00998,59,Female,Single,Non-Graduate,Self-Employed,1825794,513547,84,688,Yes,Urban,Tamil Nadu,Business,Approved,Yes,14.65,12383.21
+CUST00999,60,Male,Single,Non-Graduate,Self-Employed,972944,453850,12,723,No,Rural,Uttar Pradesh,Business,Approved,No,10.91,41947.09
+CUST01000,59,Male,Married,Non-Graduate,Self-Employed,1686205,1234446,240,743,Yes,Rural,Karnataka,Home,Approved,No,15.36,20944.43
