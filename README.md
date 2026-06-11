@@ -47,10 +47,10 @@ Segments customers by age, income, and education to understand borrower demograp
 
 ## Key Business Insights
 
--The loan portfolio demonstrates a strong approval rate, indicating effective credit evaluation processes.
--Customers with higher credit scores are significantly more likely to receive loan approvals.
--High-income customers form the largest borrower segment and contribute a major share of total loan amounts.
--Self-employed customers exhibit relatively higher default risk compared to salaried applicants.
--The 31–40 age group represents a substantial portion of the bank's customer base.
--Home and business loans contribute a significant share of overall loan demand across customer segments.
--Geographic analysis reveals that a few states contribute disproportionately to both loan volumes and default cases, highlighting areas for focused risk monitoring.
+- The loan portfolio demonstrates a strong approval rate, indicating effective credit evaluation processes.
+- Customers with higher credit scores are significantly more likely to receive loan approvals.
+- High-income customers form the largest borrower segment and contribute a major share of total loan amounts.
+- Self-employed customers exhibit relatively higher default risk compared to salaried applicants.
+- The 31–40 age group represents a substantial portion of the bank's customer base.
+- Home and business loans contribute a significant share of overall loan demand across customer segments.
+- Geographic analysis reveals that a few states contribute disproportionately to both loan volumes and default cases, highlighting areas for focused risk monitoring.
